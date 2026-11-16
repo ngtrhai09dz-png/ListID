@@ -1,0 +1,6818 @@
+[
+  {
+    "id": 1,
+    "name": "Đá Flamas"
+  },
+  {
+    "id": 2,
+    "name": "Khối Tính Năng"
+  },
+  {
+    "id": 3,
+    "name": "Tĩnh thủy"
+  },
+  {
+    "id": 4,
+    "name": "Nước Động"
+  },
+  {
+    "id": 5,
+    "name": "Dung nham tĩnh"
+  },
+  {
+    "id": 6,
+    "name": "Dung Nham Động"
+  },
+  {
+    "id": 7,
+    "name": "Hiệu ứng dịch chuyển tức thời"
+  },
+  {
+    "id": 8,
+    "name": "Khối Gạch Nung Khắc Hoa"
+  },
+  {
+    "id": 9,
+    "name": "Khối Tăng Tốc Di Chuyển"
+  },
+  {
+    "id": 10,
+    "name": "Khối Tinh Năng"
+  },
+  {
+    "id": 11,
+    "name": "Mật Ong Tĩnh"
+  },
+  {
+    "id": 12,
+    "name": "Mật Ong Động"
+  },
+  {
+    "id": 13,
+    "name": "Cát Lún Khô Tĩnh"
+  },
+  {
+    "id": 14,
+    "name": "Cát Chảy Động"
+  },
+  {
+    "id": 15,
+    "name": "Đá Nguyền Rủa"
+  },
+  {
+    "id": 16,
+    "name": "Đá Nguyền Rủa - Kích Hoạt"
+  },
+  {
+    "id": 17,
+    "name": "Chất Độc Mạnh Tĩnh"
+  },
+  {
+    "id": 18,
+    "name": "Chất Độc Mạnh Trạng Thái Động"
+  },
+  {
+    "id": 19,
+    "name": "Đá Xói Mòn"
+  },
+  {
+    "id": 20,
+    "name": "Không Khí Ngoài Hành Tinh"
+  },
+  {
+    "id": 21,
+    "name": "Phiên bản đã hết hạn,hãy cập nhật phiên bản mới nhất !"
+  },
+  {
+    "id": 22,
+    "name": "Phiên bản đã hết hạn,hãy cập nhật phiên bản mới nhất !"
+  },
+  {
+    "id": 23,
+    "name": "Nham Thạch Tích Tụ Sâu"
+  },
+  {
+    "id": 24,
+    "name": "Mỏ Lõi Hạch Manga"
+  },
+  {
+    "id": 25,
+    "name": "Đá Ngầm"
+  },
+  {
+    "id": 26,
+    "name": "Bình Ước Nguyện"
+  },
+  {
+    "id": 27,
+    "name": "Bình Ước Nguyện Phương Xa"
+  },
+  {
+    "id": 28,
+    "name": "Bình Thủy Tinh Nhỏ (Khối)"
+  },
+  {
+    "id": 29,
+    "name": "Cát Vàng"
+  },
+  {
+    "id": 30,
+    "name": "Phiên bản đã hết hạn,hãy cập nhật phiên bản mới nhất !"
+  },
+  {
+    "id": 31,
+    "name": "Nhũ Băng Cứng"
+  },
+  {
+    "id": 32,
+    "name": "Nhũ Băng Giòn"
+  },
+  {
+    "id": 33,
+    "name": "Mỏ Ngọc Thường"
+  },
+  {
+    "id": 34,
+    "name": "Mỏ Đá Sương Lửa"
+  },
+  {
+    "id": 35,
+    "name": "Khối Đá Sương Lửa"
+  },
+  {
+    "id": 36,
+    "name": "Làm mới cửa hang động"
+  },
+  {
+    "id": 37,
+    "name": "Làm mới lối đi hang động"
+  },
+  {
+    "id": 38,
+    "name": "Làm mới hốc lớn hang động"
+  },
+  {
+    "id": 39,
+    "name": "Làm mới hốc nhỏ hang động"
+  },
+  {
+    "id": 40,
+    "name": "Khối Hư Không"
+  },
+  {
+    "id": 100,
+    "name": "Khối Đất Mọc Cỏ"
+  },
+  {
+    "id": 101,
+    "name": "Khối Đất"
+  },
+  {
+    "id": 102,
+    "name": "Đất Canh Tác"
+  },
+  {
+    "id": 103,
+    "name": "Hố"
+  },
+  {
+    "id": 104,
+    "name": "Khối Đá"
+  },
+  {
+    "id": 105,
+    "name": "Đá phủ rêu"
+  },
+  {
+    "id": 106,
+    "name": "Cát Vàng Mịn"
+  },
+  {
+    "id": 107,
+    "name": "Sỏi"
+  },
+  {
+    "id": 108,
+    "name": "Gạch Nung Vàng Hoa Thô"
+  },
+  {
+    "id": 109,
+    "name": "Cát"
+  },
+  {
+    "id": 110,
+    "name": "Đá Vụn"
+  },
+  {
+    "id": 111,
+    "name": "không khả dụng trong phiên bản này"
+  },
+  {
+    "id": 112,
+    "name": "Pha lê đen"
+  },
+  {
+    "id": 113,
+    "name": "Băng trôi"
+  },
+  {
+    "id": 114,
+    "name": "Phù Sa"
+  },
+  {
+    "id": 115,
+    "name": "Tuyết Xốp"
+  },
+  {
+    "id": 116,
+    "name": "Khối Đá Horas"
+  },
+  {
+    "id": 117,
+    "name": "Khối Cỏ Horas"
+  },
+  {
+    "id": 118,
+    "name": "Đám mây Horas"
+  },
+  {
+    "id": 119,
+    "name": "Đất khô"
+  },
+  {
+    "id": 120,
+    "name": "Đất Đông Cứng"
+  },
+  {
+    "id": 121,
+    "name": "Hố Đất Đông Cứng"
+  },
+  {
+    "id": 122,
+    "name": "Tuyết Dày"
+  },
+  {
+    "id": 123,
+    "name": "Băng Tự Nhiên"
+  },
+  {
+    "id": 124,
+    "name": "Đá lưu huỳnh"
+  },
+  {
+    "id": 125,
+    "name": "Cát Nóng"
+  },
+  {
+    "id": 126,
+    "name": "Đá phép thuật"
+  },
+  {
+    "id": 127,
+    "name": "Khối bọt biển"
+  },
+  {
+    "id": 128,
+    "name": "Cát Đỏ"
+  },
+  {
+    "id": 129,
+    "name": "Tuyết Dày"
+  },
+  {
+    "id": 130,
+    "name": "Khối Tuyết Dày"
+  },
+  {
+    "id": 131,
+    "name": "Băng Cứng"
+  },
+  {
+    "id": 132,
+    "name": "Cát Tinh Thể Lưu Huỳnh"
+  },
+  {
+    "id": 133,
+    "name": "Tổ Ong Rỗng"
+  },
+  {
+    "id": 134,
+    "name": "Tổ Ong Đầy"
+  },
+  {
+    "id": 135,
+    "name": "Totem Thần Bí - Đất Rộng"
+  },
+  {
+    "id": 136,
+    "name": "Totem Thần Bí - Trời Cao"
+  },
+  {
+    "id": 137,
+    "name": "Hố Horas"
+  },
+  {
+    "id": 138,
+    "name": "Khối Độc"
+  },
+  {
+    "id": 139,
+    "name": "BOSS"
+  },
+  {
+    "id": 140,
+    "name": "Đá sự sống"
+  },
+  {
+    "id": 141,
+    "name": "Khối đá dũng khí"
+  },
+  {
+    "id": 142,
+    "name": "Khối đá trí tuệ"
+  },
+  {
+    "id": 143,
+    "name": "Bàn thờ bị hỏng"
+  },
+  {
+    "id": 144,
+    "name": "Lọ Thủy Tinh Bướm Đỏ"
+  },
+  {
+    "id": 145,
+    "name": "Lọ Thủy Tinh Bướm Xanh"
+  },
+  {
+    "id": 146,
+    "name": "Lọ Thủy Tinh Bướm Thơm"
+  },
+  {
+    "id": 147,
+    "name": "Lọ Thủy Tinh Bướm Trắng Hương"
+  },
+  {
+    "id": 148,
+    "name": "Lọ Thủy Tinh Bướm Lời Rồng"
+  },
+  {
+    "id": 149,
+    "name": "Lọ Thủy Tinh Bướm Lưỡi Chuông"
+  },
+  {
+    "id": 150,
+    "name": "Đất Canh Tác Đỏ"
+  },
+  {
+    "id": 151,
+    "name": "Hố Đất Đỏ"
+  },
+  {
+    "id": 152,
+    "name": "Ván Đứng Mỏng Dung Nham"
+  },
+  {
+    "id": 153,
+    "name": "Ván Đứng Mỏng Tre Trúc"
+  },
+  {
+    "id": 154,
+    "name": "Ván Đứng Mỏng Đỏ Son"
+  },
+  {
+    "id": 155,
+    "name": "Ván Đứng Mỏng Gạch Xi Măng"
+  },
+  {
+    "id": 156,
+    "name": "Ván Đứng Mỏng Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 157,
+    "name": "Ván Đứng Mỏng Đá"
+  },
+  {
+    "id": 158,
+    "name": "Ván Đứng Mỏng Gạch Đá Tinh Chế"
+  },
+  {
+    "id": 159,
+    "name": "Ván Đứng Mỏng Titan"
+  },
+  {
+    "id": 160,
+    "name": "Ván Đứng Mỏng Vàng Đồng"
+  },
+  {
+    "id": 161,
+    "name": "Ván Đứng Mỏng Mi-ca"
+  },
+  {
+    "id": 162,
+    "name": "Ván Đứng Mỏng Bạc Kín"
+  },
+  {
+    "id": 163,
+    "name": "Ván Đứng Mỏng Lửa Rực"
+  },
+  {
+    "id": 164,
+    "name": "Ván Đứng Mỏng Vàng Chanh"
+  },
+  {
+    "id": 165,
+    "name": "Ván Đứng Mỏng Xám Đá Biếc"
+  },
+  {
+    "id": 166,
+    "name": "Ván Đứng Mỏng Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 167,
+    "name": "Ván Đứng Mỏng Cam Hoàng Hôn"
+  },
+  {
+    "id": 168,
+    "name": "Ván Đứng Mỏng Đỏ Hải Đường"
+  },
+  {
+    "id": 169,
+    "name": "Ván Đứng Mỏng Trắng Ngà Voi"
+  },
+  {
+    "id": 170,
+    "name": "Ván Đứng Mỏng Cam Lá Thu"
+  },
+  {
+    "id": 171,
+    "name": "Ván Đứng Mỏng"
+  },
+  {
+    "id": 172,
+    "name": "Ván Đứng Mỏng Gạch Nung Vàng"
+  },
+  {
+    "id": 173,
+    "name": "Ván Đứng Mỏng Khối Manga"
+  },
+  {
+    "id": 174,
+    "name": "Ván Đứng Mỏng Xám Biếc Nhạt"
+  },
+  {
+    "id": 200,
+    "name": "Gỗ Cherry"
+  },
+  {
+    "id": 201,
+    "name": "Gỗ Thông"
+  },
+  {
+    "id": 202,
+    "name": "Gỗ Bạch Dương"
+  },
+  {
+    "id": 203,
+    "name": "Gỗ Hồng Sam"
+  },
+  {
+    "id": 204,
+    "name": "Gỗ Lim"
+  },
+  {
+    "id": 205,
+    "name": "Gỗ Óc Chó"
+  },
+  {
+    "id": 206,
+    "name": "Ván Gỗ"
+  },
+  {
+    "id": 207,
+    "name": "Ván Gỗ Cam Lá Thu"
+  },
+  {
+    "id": 208,
+    "name": "Ván Gỗ Trắng Ngà Voi"
+  },
+  {
+    "id": 209,
+    "name": "Ván Gỗ Đỏ Hải Đường"
+  },
+  {
+    "id": 210,
+    "name": "Ván Gỗ Cam Hoàng Hôn"
+  },
+  {
+    "id": 211,
+    "name": "Ván Gỗ Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 212,
+    "name": "Mầm Cherry"
+  },
+  {
+    "id": 213,
+    "name": "Mầm Cây Thông Rụng Lá"
+  },
+  {
+    "id": 214,
+    "name": "Cây Bạch Dương (Giống)"
+  },
+  {
+    "id": 215,
+    "name": "Mầm Cây Hồng Sam"
+  },
+  {
+    "id": 216,
+    "name": "Giống Cây Lim"
+  },
+  {
+    "id": 217,
+    "name": "Mầm Quả Óc Chó"
+  },
+  {
+    "id": 218,
+    "name": "Lá Cây Gỗ Cherry"
+  },
+  {
+    "id": 219,
+    "name": "Lá Thông Rụng Lá"
+  },
+  {
+    "id": 220,
+    "name": "Lá Bạch Dương"
+  },
+  {
+    "id": 221,
+    "name": "Lá Cây Hồng Sam"
+  },
+  {
+    "id": 222,
+    "name": "Lá Cây Lim"
+  },
+  {
+    "id": 223,
+    "name": "Lá Cây Óc Chó"
+  },
+  {
+    "id": 224,
+    "name": "Cỏ"
+  },
+  {
+    "id": 225,
+    "name": "Cỏ Khô"
+  },
+  {
+    "id": 226,
+    "name": "Măng Đất"
+  },
+  {
+    "id": 227,
+    "name": "Tía Tô"
+  },
+  {
+    "id": 228,
+    "name": "Độc Quy"
+  },
+  {
+    "id": 229,
+    "name": "Ngô"
+  },
+  {
+    "id": 230,
+    "name": "Trái Brugo Lớn"
+  },
+  {
+    "id": 231,
+    "name": "Mầm Quả Jubulu"
+  },
+  {
+    "id": 232,
+    "name": "Rễ Phụ"
+  },
+  {
+    "id": 233,
+    "name": "Đất Đỏ"
+  },
+  {
+    "id": 234,
+    "name": "Lúa Nước"
+  },
+  {
+    "id": 236,
+    "name": "Dưa Xanh"
+  },
+  {
+    "id": 237,
+    "name": "Đậu Bi"
+  },
+  {
+    "id": 238,
+    "name": "Cỏ Gai"
+  },
+  {
+    "id": 239,
+    "name": "Quả Cá To"
+  },
+  {
+    "id": 240,
+    "name": "Mầm Quả Cá To"
+  },
+  {
+    "id": 241,
+    "name": "Khoai Lang"
+  },
+  {
+    "id": 242,
+    "name": "Thân Cây Xương Rồng"
+  },
+  {
+    "id": 243,
+    "name": "Ngô Hoang Dã"
+  },
+  {
+    "id": 244,
+    "name": "Cây Noel"
+  },
+  {
+    "id": 245,
+    "name": "Cỏ Thủy Sinh"
+  },
+  {
+    "id": 246,
+    "name": "Rong Biển"
+  },
+  {
+    "id": 247,
+    "name": "Cánh Hoa Trôi Nổi"
+  },
+  {
+    "id": 248,
+    "name": "Ván Gỗ Nổi"
+  },
+  {
+    "id": 249,
+    "name": "Quả Thông"
+  },
+  {
+    "id": 250,
+    "name": "Cây Sen"
+  },
+  {
+    "id": 251,
+    "name": "Cây Trúc"
+  },
+  {
+    "id": 252,
+    "name": "Lá Trúc"
+  },
+  {
+    "id": 253,
+    "name": "Măng"
+  },
+  {
+    "id": 254,
+    "name": "Gỗ Hoa Đào"
+  },
+  {
+    "id": 255,
+    "name": "Lá Cây Hoa Đào"
+  },
+  {
+    "id": 256,
+    "name": "Cây Giống Hoa Đào"
+  },
+  {
+    "id": 257,
+    "name": "Gỗ Gen"
+  },
+  {
+    "id": 258,
+    "name": "Lá Cây Gen"
+  },
+  {
+    "id": 259,
+    "name": "Cây Gen Non"
+  },
+  {
+    "id": 260,
+    "name": "Gỗ Gen Nhẵn"
+  },
+  {
+    "id": 261,
+    "name": "Thân Bào Tử Ánh Sao"
+  },
+  {
+    "id": 262,
+    "name": "Rêu"
+  },
+  {
+    "id": 263,
+    "name": "Hạt Giống Bào Tử Ánh Sao"
+  },
+  {
+    "id": 264,
+    "name": "Ván Gỗ Xám Đá Biếc"
+  },
+  {
+    "id": 265,
+    "name": "Miếng gỗ cây Gen nhẵn"
+  },
+  {
+    "id": 266,
+    "name": "Măng Đất Biến Dị"
+  },
+  {
+    "id": 267,
+    "name": "Tía Tô Biến Dị"
+  },
+  {
+    "id": 268,
+    "name": "Trụ Thực Vật Biến Dị"
+  },
+  {
+    "id": 269,
+    "name": "Cỏ Màu Huỳnh Quang"
+  },
+  {
+    "id": 270,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 271,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 272,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 273,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 274,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 275,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 276,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 277,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 278,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 279,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 280,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 281,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 282,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 283,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 284,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 285,
+    "name": "Bào Tử Ánh Sao"
+  },
+  {
+    "id": 286,
+    "name": "Thân Bào Tử Ánh Sao Biến Dị"
+  },
+  {
+    "id": 287,
+    "name": "Dương Xỉ Răng Cưa Không Cầu"
+  },
+  {
+    "id": 288,
+    "name": "Dương Xỉ Răng Cưa Kết Cầu"
+  },
+  {
+    "id": 289,
+    "name": "Tường Đá Vụn Răng Cưa"
+  },
+  {
+    "id": 290,
+    "name": "Tường Đá Rêu Răng Cưa"
+  },
+  {
+    "id": 291,
+    "name": "Tường Nham Thạch Răng Cưa"
+  },
+  {
+    "id": 292,
+    "name": "Mầm Dừa"
+  },
+  {
+    "id": 294,
+    "name": "Lá Dừa Siêu Lớn"
+  },
+  {
+    "id": 295,
+    "name": "Dừa Lớn"
+  },
+  {
+    "id": 296,
+    "name": "Lá Dừa Siêu Lớn Dị Hóa"
+  },
+  {
+    "id": 297,
+    "name": "Dừa Lớn Dị Hóa"
+  },
+  {
+    "id": 298,
+    "name": "Ngọn Đuốc Nhỏ"
+  },
+  {
+    "id": 299,
+    "name": "Bó Đuốc Nhỏ Tắt Dụi"
+  },
+  {
+    "id": 300,
+    "name": "Hoa Chuông Gió"
+  },
+  {
+    "id": 301,
+    "name": "Hoa Nhược Lan"
+  },
+  {
+    "id": 302,
+    "name": "Hoa Salem"
+  },
+  {
+    "id": 303,
+    "name": "Hoa Máu Rồng"
+  },
+  {
+    "id": 304,
+    "name": "Dạ Lan"
+  },
+  {
+    "id": 305,
+    "name": "Thủy Thảo"
+  },
+  {
+    "id": 306,
+    "name": "Huyết Giác"
+  },
+  {
+    "id": 307,
+    "name": "Cây Thùa Đỏ"
+  },
+  {
+    "id": 308,
+    "name": "Cây Thùa Cam"
+  },
+  {
+    "id": 309,
+    "name": "Cây Thùa Xám"
+  },
+  {
+    "id": 310,
+    "name": "Cây Thùa Hồng"
+  },
+  {
+    "id": 311,
+    "name": "Hoa Dừa Trắng"
+  },
+  {
+    "id": 312,
+    "name": "Hoa Chuông Vàng"
+  },
+  {
+    "id": 313,
+    "name": "Tường Vi Dại"
+  },
+  {
+    "id": 314,
+    "name": "Tảo Đỏ"
+  },
+  {
+    "id": 315,
+    "name": "Phiên bản game quá cũ"
+  },
+  {
+    "id": 316,
+    "name": "Phiên bản game quá cũ"
+  },
+  {
+    "id": 317,
+    "name": "Phiên bản game quá cũ"
+  },
+  {
+    "id": 318,
+    "name": "Phiên bản game quá cũ"
+  },
+  {
+    "id": 319,
+    "name": "Phiên bản game quá cũ"
+  },
+  {
+    "id": 320,
+    "name": "Phiên bản game quá cũ"
+  },
+  {
+    "id": 321,
+    "name": "Đống Hoa Đào"
+  },
+  {
+    "id": 322,
+    "name": "Đống Hoa Nhỏ"
+  },
+  {
+    "id": 323,
+    "name": "Đống Lá Rụng"
+  },
+  {
+    "id": 324,
+    "name": "Quả Gỗ Cherry"
+  },
+  {
+    "id": 325,
+    "name": "Quả Gỗ Thông"
+  },
+  {
+    "id": 326,
+    "name": "Quả Thông"
+  },
+  {
+    "id": 327,
+    "name": "Quả Gỗ Gen"
+  },
+  {
+    "id": 328,
+    "name": "Quả Gỗ Hồng Sam"
+  },
+  {
+    "id": 329,
+    "name": "Quả Gỗ Óc Chó"
+  },
+  {
+    "id": 330,
+    "name": "Quả Gỗ Hoa Đào"
+  },
+  {
+    "id": 331,
+    "name": "Quả Gỗ Bạch Dương"
+  },
+  {
+    "id": 332,
+    "name": "Cành Cây Gỗ Cherry To"
+  },
+  {
+    "id": 333,
+    "name": "Cành Cây Gỗ Cherry Mảnh"
+  },
+  {
+    "id": 334,
+    "name": "Nhánh cây Tùng to"
+  },
+  {
+    "id": 335,
+    "name": "Nhánh cây Tùng nhỏ"
+  },
+  {
+    "id": 336,
+    "name": "Nhánh cây quý to"
+  },
+  {
+    "id": 337,
+    "name": "Nhánh cây quý nhỏ"
+  },
+  {
+    "id": 338,
+    "name": "Cành Cây Quả Óc Chó To"
+  },
+  {
+    "id": 339,
+    "name": "Cành Cây Quả Óc Chó Mảnh"
+  },
+  {
+    "id": 340,
+    "name": "Nhánh đào to"
+  },
+  {
+    "id": 341,
+    "name": "Nhánh đào nhỏ"
+  },
+  {
+    "id": 342,
+    "name": "Nhánh Cây Bạch Dương To"
+  },
+  {
+    "id": 343,
+    "name": "Nhánh cây bạch dương nhỏ"
+  },
+  {
+    "id": 344,
+    "name": "Bột Ngô"
+  },
+  {
+    "id": 345,
+    "name": "Mầm Cây Bông Gòn"
+  },
+  {
+    "id": 346,
+    "name": "Sò Lớn"
+  },
+  {
+    "id": 348,
+    "name": "Khối Manga"
+  },
+  {
+    "id": 349,
+    "name": "Cành Cây Gỗ Hồng Sam To"
+  },
+  {
+    "id": 350,
+    "name": "Cành Cây Gỗ Hồng Sam Mảnh"
+  },
+  {
+    "id": 351,
+    "name": "Chùm Tia Sáng"
+  },
+  {
+    "id": 352,
+    "name": "Máy Chùm Tia Sáng Tinh Năng"
+  },
+  {
+    "id": 353,
+    "name": "Cổng Logic NOT"
+  },
+  {
+    "id": 354,
+    "name": "Cổng Logic AND"
+  },
+  {
+    "id": 355,
+    "name": "Cổng Logic OR"
+  },
+  {
+    "id": 356,
+    "name": "Máy Phân Luồng Tinh Năng"
+  },
+  {
+    "id": 357,
+    "name": "Máy Kéo Dài Thời Gian Tinh Năng"
+  },
+  {
+    "id": 358,
+    "name": "Công Tắc"
+  },
+  {
+    "id": 359,
+    "name": "Tấm Cảm Ứng - Chạm"
+  },
+  {
+    "id": 360,
+    "name": "Tấm Cảm Ứng - Thường"
+  },
+  {
+    "id": 361,
+    "name": "Tấm Cảm Ứng - Sinh Vật"
+  },
+  {
+    "id": 362,
+    "name": "Tấm Cảm Ứng - Cát Đá"
+  },
+  {
+    "id": 363,
+    "name": "Nút - Chạm"
+  },
+  {
+    "id": 364,
+    "name": "Nút - Thường"
+  },
+  {
+    "id": 365,
+    "name": "Điện Trở Tinh Năng"
+  },
+  {
+    "id": 366,
+    "name": "Bộ Đếm Tinh Năng"
+  },
+  {
+    "id": 367,
+    "name": "Cánh Tay Robot"
+  },
+  {
+    "id": 368,
+    "name": "Cánh Tay Robot Kéo Đẩy"
+  },
+  {
+    "id": 369,
+    "name": "Đường Ống Thu Gom"
+  },
+  {
+    "id": 370,
+    "name": "Đường Ống Truyền"
+  },
+  {
+    "id": 371,
+    "name": "Đường Ống Kiểm Tra"
+  },
+  {
+    "id": 372,
+    "name": "Bộ Tăng Áp Tinh Năng"
+  },
+  {
+    "id": 373,
+    "name": "Cổng Chìa Khóa"
+  },
+  {
+    "id": 374,
+    "name": "Máy So Sánh Tinh Năng"
+  },
+  {
+    "id": 375,
+    "name": "Ván Gỗ Vàng Chanh"
+  },
+  {
+    "id": 376,
+    "name": "Cầu Thang Vàng Chanh"
+  },
+  {
+    "id": 377,
+    "name": "Ván Mỏng Vàng Chanh"
+  },
+  {
+    "id": 378,
+    "name": "Quả Thông"
+  },
+  {
+    "id": 379,
+    "name": "Khối Vuông Quả Thông"
+  },
+  {
+    "id": 380,
+    "name": "Mầm Cây Bụi"
+  },
+  {
+    "id": 382,
+    "name": "Mầm Thông Rừng Mưa"
+  },
+  {
+    "id": 383,
+    "name": "Mầm Cây Chuối"
+  },
+  {
+    "id": 384,
+    "name": "Lá Chuối"
+  },
+  {
+    "id": 385,
+    "name": "Khối Quả Chuối"
+  },
+  {
+    "id": 386,
+    "name": "Thân Chuối"
+  },
+  {
+    "id": 387,
+    "name": "Máy Thuật Toán Tinh Năng"
+  },
+  {
+    "id": 390,
+    "name": "Khối Hoa Văn"
+  },
+  {
+    "id": 392,
+    "name": "Cây Bụi Gai"
+  },
+  {
+    "id": 394,
+    "name": "Lá Ánh Sao"
+  },
+  {
+    "id": 395,
+    "name": "Lá Thông Rừng mưa"
+  },
+  {
+    "id": 396,
+    "name": "Lõi Gỗ Rừng mưa"
+  },
+  {
+    "id": 397,
+    "name": "Rêu"
+  },
+  {
+    "id": 398,
+    "name": "Khối Tro"
+  },
+  {
+    "id": 399,
+    "name": "Đất Canh Tác"
+  },
+  {
+    "id": 400,
+    "name": "Mỏ Lửa Rực"
+  },
+  {
+    "id": 401,
+    "name": "Mỏ Bạc Kín"
+  },
+  {
+    "id": 402,
+    "name": "Quặng Ngưng Tụ"
+  },
+  {
+    "id": 403,
+    "name": "Nguyên Thạch Mã Não Vân Đỏ Trắng"
+  },
+  {
+    "id": 404,
+    "name": "Mỏ Vàng Đen"
+  },
+  {
+    "id": 405,
+    "name": "Mỏ Lực Sao"
+  },
+  {
+    "id": 406,
+    "name": "Nguyên Thạch Hổ Phách"
+  },
+  {
+    "id": 407,
+    "name": "Mỏ Mi-ca"
+  },
+  {
+    "id": 408,
+    "name": "Khối Vàng Đen"
+  },
+  {
+    "id": 409,
+    "name": "Khối Hổ Phách"
+  },
+  {
+    "id": 410,
+    "name": "Khối Lửa Rực"
+  },
+  {
+    "id": 411,
+    "name": "Khối Bạc Kín"
+  },
+  {
+    "id": 412,
+    "name": "Khối Mi-ca"
+  },
+  {
+    "id": 413,
+    "name": "Khối Mi-ca Hoa Văn"
+  },
+  {
+    "id": 414,
+    "name": "Khối Mi-ca Sọc Dọc"
+  },
+  {
+    "id": 415,
+    "name": "Khối Tinh Năng"
+  },
+  {
+    "id": 416,
+    "name": "Khối Ngưng Tụ"
+  },
+  {
+    "id": 417,
+    "name": "Khối Mã Não Vân Đỏ Trắng"
+  },
+  {
+    "id": 418,
+    "name": "Sàn"
+  },
+  {
+    "id": 419,
+    "name": "Sàn Cam Lá Thu"
+  },
+  {
+    "id": 420,
+    "name": "Sàn Đỏ Hải Đường"
+  },
+  {
+    "id": 421,
+    "name": "Gạch Đất"
+  },
+  {
+    "id": 422,
+    "name": "Gạch thô"
+  },
+  {
+    "id": 423,
+    "name": "Ván Gạch Nung Vàng Thô"
+  },
+  {
+    "id": 424,
+    "name": "Ván Gạch Nung Vàng Tinh Chế"
+  },
+  {
+    "id": 425,
+    "name": "Gạch Sứ"
+  },
+  {
+    "id": 426,
+    "name": "Gạch Sứ Ô Ngang"
+  },
+  {
+    "id": 427,
+    "name": "Gạch Sứ Ô Dọc"
+  },
+  {
+    "id": 428,
+    "name": "Gạch Sứ Ô Lưới"
+  },
+  {
+    "id": 429,
+    "name": "Gạch Sứ Bất Quy Tắc"
+  },
+  {
+    "id": 430,
+    "name": "Gạch nước đá"
+  },
+  {
+    "id": 431,
+    "name": "Hạt Hoa Chuông Gió"
+  },
+  {
+    "id": 432,
+    "name": "Hạt Hoa Nhược Lan"
+  },
+  {
+    "id": 433,
+    "name": "Hạt Hoa Salem"
+  },
+  {
+    "id": 434,
+    "name": "Hạt Hoa Máu Rồng"
+  },
+  {
+    "id": 435,
+    "name": "Hạt Dạ Lan"
+  },
+  {
+    "id": 436,
+    "name": "Giống Thủy Thảo"
+  },
+  {
+    "id": 437,
+    "name": "Hạt Cây Máu Rồng"
+  },
+  {
+    "id": 438,
+    "name": "Hạt Cây Thùa Đỏ"
+  },
+  {
+    "id": 439,
+    "name": "Hạt Cây Thùa Cam"
+  },
+  {
+    "id": 440,
+    "name": "Hạt Cây Thùa Xám"
+  },
+  {
+    "id": 441,
+    "name": "Hạt Cây Thùa Hồng"
+  },
+  {
+    "id": 442,
+    "name": "Hạt Hoa Dừa Trắng"
+  },
+  {
+    "id": 443,
+    "name": "Giống Hoa Chuông Vàng"
+  },
+  {
+    "id": 444,
+    "name": "Hạt Tường Vi Dại"
+  },
+  {
+    "id": 445,
+    "name": "Quặng Đồng Sao"
+  },
+  {
+    "id": 446,
+    "name": "Quặng Đóm Tím"
+  },
+  {
+    "id": 447,
+    "name": "Hóa thạch bí ẩn"
+  },
+  {
+    "id": 448,
+    "name": "Khối Dầu"
+  },
+  {
+    "id": 449,
+    "name": "Khối đồng Horas"
+  },
+  {
+    "id": 450,
+    "name": "Khối Graviti Horas"
+  },
+  {
+    "id": 451,
+    "name": "Quặng Hợp Kim Đồng"
+  },
+  {
+    "id": 452,
+    "name": "Quặng hợp kim Titan"
+  },
+  {
+    "id": 453,
+    "name": "Quặng Bùa Tấn Công"
+  },
+  {
+    "id": 454,
+    "name": "Quặng Bùa Phòng Thủ"
+  },
+  {
+    "id": 455,
+    "name": "Quặng Bùa Hiệu Suất"
+  },
+  {
+    "id": 456,
+    "name": "Khối đồng thau"
+  },
+  {
+    "id": 457,
+    "name": "Khối hợp kim Titan"
+  },
+  {
+    "id": 458,
+    "name": "Cây Xương Rồng Non"
+  },
+  {
+    "id": 459,
+    "name": "Cây Xương Rồng"
+  },
+  {
+    "id": 460,
+    "name": "Hoa Xương Rồng"
+  },
+  {
+    "id": 461,
+    "name": "Quả Xương Rồng"
+  },
+  {
+    "id": 462,
+    "name": "Trứng Đà Điểu"
+  },
+  {
+    "id": 463,
+    "name": "Nhánh Tỉa Xương Rồng"
+  },
+  {
+    "id": 464,
+    "name": "Sợi nấm"
+  },
+  {
+    "id": 465,
+    "name": "Nấm độc Magenta"
+  },
+  {
+    "id": 466,
+    "name": "Thức Ăn Bào Tử Ánh Sao"
+  },
+  {
+    "id": 467,
+    "name": "Cám Măng Đất Biến Dị"
+  },
+  {
+    "id": 468,
+    "name": "Cám Tía Tô Biến Dị"
+  },
+  {
+    "id": 469,
+    "name": "Cây bông dại"
+  },
+  {
+    "id": 470,
+    "name": "Khối Chấm Hỏi"
+  },
+  {
+    "id": 471,
+    "name": "Khối Chấm Hỏi"
+  },
+  {
+    "id": 472,
+    "name": "Khối Chấm Hỏi"
+  },
+  {
+    "id": 473,
+    "name": "Khối Chấm Hỏi"
+  },
+  {
+    "id": 474,
+    "name": "Khối Chấm Hỏi"
+  },
+  {
+    "id": 475,
+    "name": "Khối Chấm Hỏi"
+  },
+  {
+    "id": 476,
+    "name": "Cây Dương Non"
+  },
+  {
+    "id": 477,
+    "name": "Gỗ Hồ Dương"
+  },
+  {
+    "id": 478,
+    "name": "Nhánh Cây Dương To"
+  },
+  {
+    "id": 479,
+    "name": "Nhánh Cây Dương Nhỏ"
+  },
+  {
+    "id": 480,
+    "name": "Lá Dương"
+  },
+  {
+    "id": 481,
+    "name": "Hoa Dương"
+  },
+  {
+    "id": 482,
+    "name": "Nước Mắt Hồ Dương"
+  },
+  {
+    "id": 483,
+    "name": "Tranh Tường"
+  },
+  {
+    "id": 484,
+    "name": "Lều"
+  },
+  {
+    "id": 485,
+    "name": "Ấu Trùng San Hô"
+  },
+  {
+    "id": 486,
+    "name": "San Hô Góc"
+  },
+  {
+    "id": 487,
+    "name": "San Hô Góc Hóa Trắng"
+  },
+  {
+    "id": 488,
+    "name": "San Hô Bong Bóng"
+  },
+  {
+    "id": 489,
+    "name": "San Hô Bong Bóng Hóa Trắng"
+  },
+  {
+    "id": 490,
+    "name": "San Hô Dĩa Tròn"
+  },
+  {
+    "id": 491,
+    "name": "San Hô Dĩa Tròn Hóa Trắng"
+  },
+  {
+    "id": 492,
+    "name": "San Hô Cây"
+  },
+  {
+    "id": 493,
+    "name": "San Hô Cây Hóa Trắng"
+  },
+  {
+    "id": 494,
+    "name": "Mầm Non Tảo Gậy Huỳnh Quang"
+  },
+  {
+    "id": 495,
+    "name": "Tảo Gậy Huỳnh Quang"
+  },
+  {
+    "id": 496,
+    "name": "Khối Gậy Huỳnh Quang phát sáng"
+  },
+  {
+    "id": 497,
+    "name": "Khối Gậy Huỳnh Quang Dùng Hết"
+  },
+  {
+    "id": 498,
+    "name": "Giá Trộn Màu"
+  },
+  {
+    "id": 499,
+    "name": "Hũ kho báu hư không"
+  },
+  {
+    "id": 500,
+    "name": "Lửa"
+  },
+  {
+    "id": 501,
+    "name": "Gạch Đá Tinh Chế"
+  },
+  {
+    "id": 502,
+    "name": "Gạch Đá Nứt Vết"
+  },
+  {
+    "id": 503,
+    "name": "Gạch Nham Phủ Rêu"
+  },
+  {
+    "id": 504,
+    "name": "Gạch Đá Hoa Văn"
+  },
+  {
+    "id": 505,
+    "name": "Khối Đá Vụn"
+  },
+  {
+    "id": 506,
+    "name": "Ván Mỏng Đá Phủ Rêu"
+  },
+  {
+    "id": 507,
+    "name": "Ván Gạch Nung Vàng"
+  },
+  {
+    "id": 508,
+    "name": "Giá Trộn Màu (Treo Tường)"
+  },
+  {
+    "id": 509,
+    "name": "Ván Mỏng Đá"
+  },
+  {
+    "id": 510,
+    "name": "Ván Mỏng Gạch Xi Măng"
+  },
+  {
+    "id": 511,
+    "name": "Ván Mỏng Đá Tinh Chế"
+  },
+  {
+    "id": 512,
+    "name": "Ván Mỏng Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 513,
+    "name": "Ván Mỏng Mi-ca"
+  },
+  {
+    "id": 514,
+    "name": "Ván Mỏng"
+  },
+  {
+    "id": 515,
+    "name": "Ván Mỏng Cam Lá Thu"
+  },
+  {
+    "id": 516,
+    "name": "Ván Mỏng Trắng Ngà Voi"
+  },
+  {
+    "id": 517,
+    "name": "Ván Mỏng Đỏ Hải Đường"
+  },
+  {
+    "id": 518,
+    "name": "Ván Mỏng Cam Hoàng Hôn"
+  },
+  {
+    "id": 519,
+    "name": "Ván Mỏng Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 520,
+    "name": "Cầu Thang"
+  },
+  {
+    "id": 521,
+    "name": "Cầu Thang Cam Lá Thu"
+  },
+  {
+    "id": 522,
+    "name": "Cầu Thang Trắng Ngà Voi"
+  },
+  {
+    "id": 523,
+    "name": "Cầu Thang Đỏ Hải Đường"
+  },
+  {
+    "id": 524,
+    "name": "Cầu Thang Cam Hoàng Hôn"
+  },
+  {
+    "id": 525,
+    "name": "Cầu Thang Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 526,
+    "name": "Hàng Rào Bạc Kín"
+  },
+  {
+    "id": 527,
+    "name": "Cầu Thang Gạch Nung Vàng"
+  },
+  {
+    "id": 529,
+    "name": "Cầu Thang Đá"
+  },
+  {
+    "id": 530,
+    "name": "Cầu Thang Gạch Xi Măng"
+  },
+  {
+    "id": 531,
+    "name": "Cầu Thang Đá Tinh Chế"
+  },
+  {
+    "id": 532,
+    "name": "Cầu Thang Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 533,
+    "name": "Cầu Thang Mi-ca"
+  },
+  {
+    "id": 534,
+    "name": "Hàng Rào Gỗ"
+  },
+  {
+    "id": 535,
+    "name": "Cổng Rào Gỗ"
+  },
+  {
+    "id": 536,
+    "name": "Khối Đá Ánh Dương"
+  },
+  {
+    "id": 537,
+    "name": "Khối Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 538,
+    "name": "Hàng Rào Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 539,
+    "name": "Hàng Rào Trắng Ngà Voi"
+  },
+  {
+    "id": 540,
+    "name": "Gạch Nung Vàng Cổ Xưa"
+  },
+  {
+    "id": 541,
+    "name": "Gạch Nung Vàng Tinh Xảo"
+  },
+  {
+    "id": 542,
+    "name": "Ván Mỏng Khối Manga"
+  },
+  {
+    "id": 547,
+    "name": "Khối Gạch Xi Măng"
+  },
+  {
+    "id": 548,
+    "name": "Tường Đá Vụn"
+  },
+  {
+    "id": 549,
+    "name": "Tường Đá Rêu"
+  },
+  {
+    "id": 550,
+    "name": "Khối Huỳnh Quang"
+  },
+  {
+    "id": 551,
+    "name": "Hàng Rào Gạch Đá Thô"
+  },
+  {
+    "id": 552,
+    "name": "Hàng Rào Trắng Ngà Voi"
+  },
+  {
+    "id": 553,
+    "name": "Hàng Rào Gỗ"
+  },
+  {
+    "id": 554,
+    "name": "Hàng Rào Đồng"
+  },
+  {
+    "id": 555,
+    "name": "Cửa Sổ Gỗ"
+  },
+  {
+    "id": 556,
+    "name": "Cửa Sổ Thủy Tinh"
+  },
+  {
+    "id": 557,
+    "name": "Cửa Sổ Thủy Tinh Trắng Ngà Voi"
+  },
+  {
+    "id": 558,
+    "name": "Khối Mật Ong"
+  },
+  {
+    "id": 559,
+    "name": "Khối Caramel"
+  },
+  {
+    "id": 560,
+    "name": "Mật ong tinh thể"
+  },
+  {
+    "id": 561,
+    "name": "Mật Ong Khét"
+  },
+  {
+    "id": 562,
+    "name": "Ván Gỗ Đỏ Son"
+  },
+  {
+    "id": 563,
+    "name": "Khối Tre Trúc"
+  },
+  {
+    "id": 564,
+    "name": "Ván Mỏng Đỏ Son"
+  },
+  {
+    "id": 565,
+    "name": "Ván Mỏng Tre Trúc"
+  },
+  {
+    "id": 566,
+    "name": "Cầu Thang Đỏ Son"
+  },
+  {
+    "id": 567,
+    "name": "Cầu Thang Tre"
+  },
+  {
+    "id": 568,
+    "name": "Hàng Rào Tre"
+  },
+  {
+    "id": 569,
+    "name": "Cửa Rào Tre"
+  },
+  {
+    "id": 570,
+    "name": "Ván Mỏng Nham Thạch"
+  },
+  {
+    "id": 571,
+    "name": "Cầu thang đá Horas"
+  },
+  {
+    "id": 572,
+    "name": "Tường Nham Thạch"
+  },
+  {
+    "id": 573,
+    "name": "Gạch đá Horas"
+  },
+  {
+    "id": 574,
+    "name": "Ván Mỏng Xám Đá Biếc"
+  },
+  {
+    "id": 575,
+    "name": "Cầu Thang Xám Đá Biếc"
+  },
+  {
+    "id": 576,
+    "name": "Hàng Rào Xám Đá Biếc"
+  },
+  {
+    "id": 578,
+    "name": "Tượng Thần Rừng mưa"
+  },
+  {
+    "id": 579,
+    "name": "Gỗ Rừng Mưa"
+  },
+  {
+    "id": 580,
+    "name": "Bàn tế"
+  },
+  {
+    "id": 581,
+    "name": "Máy Dự Báo Thời Tiết"
+  },
+  {
+    "id": 582,
+    "name": "Túi Ngủ Vân Báo"
+  },
+  {
+    "id": 583,
+    "name": "Đế Tượng Thần"
+  },
+  {
+    "id": 584,
+    "name": "Nọc độc"
+  },
+  {
+    "id": 585,
+    "name": "Đài tưởng niệm vô danh"
+  },
+  {
+    "id": 586,
+    "name": "Tấm bia thờ"
+  },
+  {
+    "id": 587,
+    "name": "Quả Thần"
+  },
+  {
+    "id": 588,
+    "name": "Kiếm lửa hỏng"
+  },
+  {
+    "id": 589,
+    "name": "Mắt người đá"
+  },
+  {
+    "id": 590,
+    "name": "Thân cây thần"
+  },
+  {
+    "id": 591,
+    "name": "Hạt giống thần"
+  },
+  {
+    "id": 592,
+    "name": "Lá thần"
+  },
+  {
+    "id": 593,
+    "name": "Nhựa thần"
+  },
+  {
+    "id": 594,
+    "name": "Bảng điều khiển Tinh trạm"
+  },
+  {
+    "id": 595,
+    "name": "Cabin trung chuyển cấp 1"
+  },
+  {
+    "id": 596,
+    "name": "Tượng đá"
+  },
+  {
+    "id": 597,
+    "name": "Cabin trung chuyển cấp 2"
+  },
+  {
+    "id": 598,
+    "name": "Máy móc bị chôn vùi"
+  },
+  {
+    "id": 599,
+    "name": "Trụ Cát Đá"
+  },
+  {
+    "id": 600,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 601,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 602,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 603,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 604,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 605,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 606,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 607,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 608,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 609,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 610,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 611,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 612,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 613,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 614,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 615,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 616,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 617,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 618,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 619,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 620,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 621,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 622,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 623,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 624,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 625,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 626,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 627,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 628,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 629,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 630,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 631,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 632,
+    "name": "Khối Thủy Tinh Trong Suốt"
+  },
+  {
+    "id": 633,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 634,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 635,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 636,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 637,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 638,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 639,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 640,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 641,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 642,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 643,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 644,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 645,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 646,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 647,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 648,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 649,
+    "name": "Mảnh Thủy Tinh Trong Suốt"
+  },
+  {
+    "id": 650,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 651,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 652,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 653,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 654,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 655,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 656,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 657,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 658,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 659,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 660,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 661,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 662,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 663,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 664,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 665,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 666,
+    "name": "Khối Xi Măng"
+  },
+  {
+    "id": 667,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 668,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 669,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 670,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 671,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 672,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 673,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 674,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 675,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 676,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 677,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 678,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 679,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 680,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 681,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 682,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 683,
+    "name": "Khối Đá Vân Rồng"
+  },
+  {
+    "id": 684,
+    "name": "Đá  Sọc Xiên Đen"
+  },
+  {
+    "id": 685,
+    "name": "Khối Đường Sọc"
+  },
+  {
+    "id": 686,
+    "name": "Gạch Chocolate"
+  },
+  {
+    "id": 687,
+    "name": "Đèn Oải Hương"
+  },
+  {
+    "id": 688,
+    "name": "Bảng Chữ"
+  },
+  {
+    "id": 689,
+    "name": "Cửa sổ rỗng"
+  },
+  {
+    "id": 690,
+    "name": "Khối Âm Trầm"
+  },
+  {
+    "id": 691,
+    "name": "Khối Âm Trung"
+  },
+  {
+    "id": 692,
+    "name": "Khối Âm Cao"
+  },
+  {
+    "id": 693,
+    "name": "Nhạc Cụ - Trống"
+  },
+  {
+    "id": 694,
+    "name": "Nhạc Cụ - Điện Tử"
+  },
+  {
+    "id": 695,
+    "name": "Nhạc Cụ - Tổng Hợp"
+  },
+  {
+    "id": 696,
+    "name": "Mạch hở - Điện Tử"
+  },
+  {
+    "id": 697,
+    "name": "Tuần Hoàn - Trống"
+  },
+  {
+    "id": 698,
+    "name": "Tuần Hoàn - Điện Tử"
+  },
+  {
+    "id": 699,
+    "name": "Tuần Hoàn - Không Khí"
+  },
+  {
+    "id": 700,
+    "name": "Máy Tạo Tinh Năng"
+  },
+  {
+    "id": 701,
+    "name": "Máy Tạo Tinh Năng"
+  },
+  {
+    "id": 702,
+    "name": "Máy Tăng Tinh Năng"
+  },
+  {
+    "id": 703,
+    "name": "Máy Tăng Tinh Năng"
+  },
+  {
+    "id": 704,
+    "name": "Máy So Sánh Tinh Năng"
+  },
+  {
+    "id": 705,
+    "name": "Máy So Sánh Tinh Năng"
+  },
+  {
+    "id": 706,
+    "name": "Dây Tinh Năng Xanh"
+  },
+  {
+    "id": 707,
+    "name": "Đèn Tín Hiệu Tinh Năng"
+  },
+  {
+    "id": 708,
+    "name": "Đèn Tín Hiệu Tinh Năng"
+  },
+  {
+    "id": 709,
+    "name": ""
+  },
+  {
+    "id": 710,
+    "name": "Sợi Tơ"
+  },
+  {
+    "id": 711,
+    "name": "Bảng Cảm Áp Tiếp Xúc"
+  },
+  {
+    "id": 712,
+    "name": "Bảng Cảm Áp Thường"
+  },
+  {
+    "id": 713,
+    "name": "Bảng Cảm Áp Sinh Vật"
+  },
+  {
+    "id": 715,
+    "name": "Nút Tiếp Xúc"
+  },
+  {
+    "id": 716,
+    "name": "Nút Thường"
+  },
+  {
+    "id": 717,
+    "name": "Thiết Lập Bắn"
+  },
+  {
+    "id": 718,
+    "name": "Tay Kéo Đẩy"
+  },
+  {
+    "id": 719,
+    "name": "Tay Robot"
+  },
+  {
+    "id": 720,
+    "name": "Máy Ném"
+  },
+  {
+    "id": 721,
+    "name": "Bẫy Gai"
+  },
+  {
+    "id": 722,
+    "name": "Thiết bị Ném"
+  },
+  {
+    "id": 723,
+    "name": "Totem Gỗ Đào"
+  },
+  {
+    "id": 724,
+    "name": "Cần Gạt"
+  },
+  {
+    "id": 725,
+    "name": "Nút Đường Ray"
+  },
+  {
+    "id": 726,
+    "name": "Piano"
+  },
+  {
+    "id": 727,
+    "name": ""
+  },
+  {
+    "id": 728,
+    "name": "Radio"
+  },
+  {
+    "id": 729,
+    "name": "Nút Tăng Động Năng"
+  },
+  {
+    "id": 730,
+    "name": "Rương Sa Mạc"
+  },
+  {
+    "id": 731,
+    "name": "Giếng Trời Gỗ"
+  },
+  {
+    "id": 732,
+    "name": "Tượng Hắc Long"
+  },
+  {
+    "id": 733,
+    "name": "Hũ Báu Hắc Long"
+  },
+  {
+    "id": 734,
+    "name": "Rương Thường"
+  },
+  {
+    "id": 735,
+    "name": "Rương Tinh Xảo"
+  },
+  {
+    "id": 736,
+    "name": "Rương Hoàng Kim"
+  },
+  {
+    "id": 737,
+    "name": "Bình Đơn Giản"
+  },
+  {
+    "id": 738,
+    "name": "Bình Gốm Đất"
+  },
+  {
+    "id": 739,
+    "name": "Bình Gốm Màu"
+  },
+  {
+    "id": 740,
+    "name": "Đá Dung Nham"
+  },
+  {
+    "id": 741,
+    "name": "Đá Hỗn Mang"
+  },
+  {
+    "id": 742,
+    "name": "Tượng Hỗn Loạn"
+  },
+  {
+    "id": 743,
+    "name": "Hộp Dung Nham"
+  },
+  {
+    "id": 744,
+    "name": "Hộp Hỗn Loạn"
+  },
+  {
+    "id": 745,
+    "name": "Totem Cung Thủ Lưu Huỳnh"
+  },
+  {
+    "id": 746,
+    "name": "Tượng Dung Nham"
+  },
+  {
+    "id": 747,
+    "name": "Bình Vật Liệu"
+  },
+  {
+    "id": 748,
+    "name": "Bình Thủy Tinh Đom Đóm"
+  },
+  {
+    "id": 749,
+    "name": "Ván Mỏng Đồng"
+  },
+  {
+    "id": 750,
+    "name": "Ván Mỏng Bạc Kín"
+  },
+  {
+    "id": 751,
+    "name": "Ván Mỏng Lửa Rực"
+  },
+  {
+    "id": 752,
+    "name": "Ván Mỏng Titan"
+  },
+  {
+    "id": 753,
+    "name": "Cầu Thang Đồng"
+  },
+  {
+    "id": 754,
+    "name": "Cầu Thang Bạc Kín"
+  },
+  {
+    "id": 755,
+    "name": "Cầu Thang Lửa Rực"
+  },
+  {
+    "id": 756,
+    "name": "Cầu Thang Titan"
+  },
+  {
+    "id": 757,
+    "name": "Rương Bản Đồ Kho Báu"
+  },
+  {
+    "id": 758,
+    "name": "Rương Thuyền Đắm"
+  },
+  {
+    "id": 759,
+    "name": "Rương Thuyền Chìm Thường"
+  },
+  {
+    "id": 760,
+    "name": "Hạt Hoa Băng"
+  },
+  {
+    "id": 761,
+    "name": "Hoa Băng"
+  },
+  {
+    "id": 762,
+    "name": "Mầm Cây Bụi Khô"
+  },
+  {
+    "id": 763,
+    "name": "Cây Bụi Khô"
+  },
+  {
+    "id": 764,
+    "name": "Sen Tuyết"
+  },
+  {
+    "id": 765,
+    "name": "Đá Viễn Cổ"
+  },
+  {
+    "id": 780,
+    "name": "Sảnh khiêu vũ"
+  },
+  {
+    "id": 781,
+    "name": "Búa Sáng Tạo Đá"
+  },
+  {
+    "id": 782,
+    "name": "Búa Sáng Tạo Đồng"
+  },
+  {
+    "id": 783,
+    "name": "Khối Búa Sáng Tạo Bạc Kín"
+  },
+  {
+    "id": 784,
+    "name": "Búa Sáng Tạo Titan"
+  },
+  {
+    "id": 785,
+    "name": "Bàn Đá Rune"
+  },
+  {
+    "id": 794,
+    "name": "Nồi Đá"
+  },
+  {
+    "id": 795,
+    "name": "Nồi Bạc Kín"
+  },
+  {
+    "id": 796,
+    "name": "Bàn Thợ Ko Hoàn Chỉnh"
+  },
+  {
+    "id": 797,
+    "name": "Bàn Thợ Hoàn Chỉnh"
+  },
+  {
+    "id": 798,
+    "name": "Bàn Tinh Luyện Bạc Kín"
+  },
+  {
+    "id": 799,
+    "name": "Bàn Tinh Luyện Đồng"
+  },
+  {
+    "id": 800,
+    "name": "Bàn Thợ Ko Hoàn Chỉnh"
+  },
+  {
+    "id": 801,
+    "name": "Rương Trữ Đồ"
+  },
+  {
+    "id": 802,
+    "name": "Bàn Tinh Luyện"
+  },
+  {
+    "id": 803,
+    "name": ""
+  },
+  {
+    "id": 804,
+    "name": "Đá Lạ"
+  },
+  {
+    "id": 805,
+    "name": "Khối Đá Lạ"
+  },
+  {
+    "id": 806,
+    "name": "Gạch Lạ"
+  },
+  {
+    "id": 807,
+    "name": "Đá Xanh Lạ"
+  },
+  {
+    "id": 808,
+    "name": "Gạch Vỡ Lạ"
+  },
+  {
+    "id": 809,
+    "name": "Gạch Hoa Văn Lạ"
+  },
+  {
+    "id": 810,
+    "name": "Đá Triệu Hồi Quái"
+  },
+  {
+    "id": 811,
+    "name": ""
+  },
+  {
+    "id": 812,
+    "name": "Cửa Gỗ"
+  },
+  {
+    "id": 813,
+    "name": "Thang Leo Dây Thừng"
+  },
+  {
+    "id": 814,
+    "name": "Cửa Bạc Kín"
+  },
+  {
+    "id": 815,
+    "name": "Màn Sân Khấu Lực Sao Đồng Vàng"
+  },
+  {
+    "id": 816,
+    "name": "Đèn Quả Jubulu"
+  },
+  {
+    "id": 817,
+    "name": "Bó Đuốc"
+  },
+  {
+    "id": 818,
+    "name": "Màn Sân Khấu Lực Sao (kèm theo Khối)"
+  },
+  {
+    "id": 819,
+    "name": "Trứng Hắc Long"
+  },
+  {
+    "id": 820,
+    "name": "Tủ Sách"
+  },
+  {
+    "id": 821,
+    "name": "Cọc Gỗ"
+  },
+  {
+    "id": 822,
+    "name": "Cỏ Khô"
+  },
+  {
+    "id": 823,
+    "name": ""
+  },
+  {
+    "id": 824,
+    "name": "Bàn Thợ Ko Hoàn Chỉnh"
+  },
+  {
+    "id": 828,
+    "name": "Túi Ngủ Đơn Giản"
+  },
+  {
+    "id": 829,
+    "name": "Đài Ma Dược"
+  },
+  {
+    "id": 830,
+    "name": "Pizza Thịt Nướng"
+  },
+  {
+    "id": 831,
+    "name": "Pizza Rau Quả"
+  },
+  {
+    "id": 832,
+    "name": "Rương Thần Bí"
+  },
+  {
+    "id": 833,
+    "name": "Bàn Thợ Ko Hoàn Chỉnh"
+  },
+  {
+    "id": 834,
+    "name": "Thùng Thuốc Nổ"
+  },
+  {
+    "id": 835,
+    "name": "không có trong phiên bản này"
+  },
+  {
+    "id": 836,
+    "name": "Pháo Hoa Tẩy Chức Năng"
+  },
+  {
+    "id": 837,
+    "name": "Nấm Nhỏ Huỳnh Quang"
+  },
+  {
+    "id": 839,
+    "name": "Máy Truyền Nhận"
+  },
+  {
+    "id": 840,
+    "name": "Cánh tay robot"
+  },
+  {
+    "id": 841,
+    "name": "Cánh tay robot di động"
+  },
+  {
+    "id": 842,
+    "name": "Lò Xo Bạc Kín"
+  },
+  {
+    "id": 843,
+    "name": "Bộ Phận Lò Xo"
+  },
+  {
+    "id": 844,
+    "name": "Lò Xo Lửa Rực"
+  },
+  {
+    "id": 845,
+    "name": "Rương Bảo Hiểm"
+  },
+  {
+    "id": 846,
+    "name": "Rương Bảo Hiểm Siêu Cấp"
+  },
+  {
+    "id": 847,
+    "name": "Hộp Quà Giáng Sinh"
+  },
+  {
+    "id": 848,
+    "name": "Đèn Khổng Minh"
+  },
+  {
+    "id": 849,
+    "name": "Pháo Hoa Cấm Quái"
+  },
+  {
+    "id": 850,
+    "name": "Pháo Hoa Sao Nhỏ"
+  },
+  {
+    "id": 851,
+    "name": "Pháo Hoa Sao Lớn"
+  },
+  {
+    "id": 852,
+    "name": "Pháo Hoa Tinh Vũ"
+  },
+  {
+    "id": 853,
+    "name": "Pháo Hoa Ngày Đêm"
+  },
+  {
+    "id": 854,
+    "name": "Cửa Cam Hoàng Hôn"
+  },
+  {
+    "id": 855,
+    "name": "Cửa Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 856,
+    "name": "Cửa Trắng Ngà Voi"
+  },
+  {
+    "id": 857,
+    "name": "Cửa Lửa Rực"
+  },
+  {
+    "id": 858,
+    "name": "Cửa Đỏ Hải Đường"
+  },
+  {
+    "id": 859,
+    "name": "Cửa Vàng Hổ Phách"
+  },
+  {
+    "id": 860,
+    "name": "Cửa Cam Lá Thu"
+  },
+  {
+    "id": 861,
+    "name": "Đèn Gỗ"
+  },
+  {
+    "id": 862,
+    "name": "Đèn Thủy Tinh Trắng Ngà Voi"
+  },
+  {
+    "id": 863,
+    "name": "Đèn Thủy Tinh Cam Châu Sa"
+  },
+  {
+    "id": 864,
+    "name": "Đèn Thủy Tinh Đỏ Son"
+  },
+  {
+    "id": 865,
+    "name": "Đèn Thủy Tinh Lam Trời Xanh"
+  },
+  {
+    "id": 866,
+    "name": "Đèn Thủy Tinh Vàng Lông Ngỗng"
+  },
+  {
+    "id": 867,
+    "name": "Đèn Thủy Tinh Lục Hoa Tùng"
+  },
+  {
+    "id": 868,
+    "name": "Đèn Thủy Tinh Đỏ Hải Đường"
+  },
+  {
+    "id": 869,
+    "name": "Đèn Thủy Tinh Xám Đá Biếc"
+  },
+  {
+    "id": 870,
+    "name": "Đèn Thủy Tinh Xám Biếc Nhạt"
+  },
+  {
+    "id": 871,
+    "name": "Đèn Thủy Tinh Xanh Lục Bích"
+  },
+  {
+    "id": 872,
+    "name": "Đèn Thủy Tinh Tím Thanh Liên"
+  },
+  {
+    "id": 873,
+    "name": "Đèn Thủy Tinh Lam Đá Quý"
+  },
+  {
+    "id": 874,
+    "name": "Đèn Thủy Tinh Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 875,
+    "name": "Đèn Thủy Tinh Lục Phỉ Thúy"
+  },
+  {
+    "id": 876,
+    "name": "Đèn Thủy Tinh Đỏ Máu"
+  },
+  {
+    "id": 877,
+    "name": "Đèn Thủy Tinh Đen Than"
+  },
+  {
+    "id": 878,
+    "name": "Test Xô-Pha"
+  },
+  {
+    "id": 879,
+    "name": "Chuông Giáng Sinh"
+  },
+  {
+    "id": 880,
+    "name": "Đai Giáng Sinh"
+  },
+  {
+    "id": 881,
+    "name": "Pháo Hoa"
+  },
+  {
+    "id": 882,
+    "name": "Pháo Hoa (Mở)"
+  },
+  {
+    "id": 883,
+    "name": "Giường Gỗ Tinh Xảo"
+  },
+  {
+    "id": 884,
+    "name": "Giường Gỗ Sang Trọng"
+  },
+  {
+    "id": 885,
+    "name": "Giường Công Chúa"
+  },
+  {
+    "id": 886,
+    "name": "Màn Sân Khấu Lực Sao Bạc Kín"
+  },
+  {
+    "id": 887,
+    "name": "Màn Sân Khấu Lực Sao Bạc Kín (Dán Tường)"
+  },
+  {
+    "id": 888,
+    "name": "Màn Sân Khấu Lực Sao Titan"
+  },
+  {
+    "id": 889,
+    "name": "Màn Sân Khấu Lực Sao Titan (Dán Tường)"
+  },
+  {
+    "id": 890,
+    "name": "Màn Sân Khấu Lực Sao Dung Nham"
+  },
+  {
+    "id": 891,
+    "name": "Màn Sân Khấu Lực Sao Dung Nham (Dán Tường)"
+  },
+  {
+    "id": 892,
+    "name": "Bảng Chữ Gỗ"
+  },
+  {
+    "id": 893,
+    "name": "Bảng Chữ Đá"
+  },
+  {
+    "id": 894,
+    "name": "Bảng Chữ Bạc Kín"
+  },
+  {
+    "id": 895,
+    "name": "Bảng Chữ Lửa Rực"
+  },
+  {
+    "id": 896,
+    "name": "Bảng Chữ Vàng Đen"
+  },
+  {
+    "id": 897,
+    "name": "Bảng Chữ Dung Nham"
+  },
+  {
+    "id": 898,
+    "name": "Lồng Đèn"
+  },
+  {
+    "id": 899,
+    "name": "Đèn Đường Cổ Điển"
+  },
+  {
+    "id": 900,
+    "name": "Đèn Đường Hiện Đại"
+  },
+  {
+    "id": 901,
+    "name": "Totem Đấu Sĩ Dã Nhân"
+  },
+  {
+    "id": 902,
+    "name": "Totem Bé Dã Nhân"
+  },
+  {
+    "id": 903,
+    "name": "Totem Giáo Binh Dã Nhân"
+  },
+  {
+    "id": 904,
+    "name": "Totem Dơi"
+  },
+  {
+    "id": 905,
+    "name": "Đèn Nấm Huỳnh Quang Gỗ"
+  },
+  {
+    "id": 906,
+    "name": "Totem Trứng Boom"
+  },
+  {
+    "id": 907,
+    "name": "Đèn Nấm Huỳnh Quang Đá"
+  },
+  {
+    "id": 908,
+    "name": "Totem Dung Nham Cự Nhân"
+  },
+  {
+    "id": 909,
+    "name": "Totem Cung Thủ Lưu Huỳnh"
+  },
+  {
+    "id": 910,
+    "name": "Totem Dodo"
+  },
+  {
+    "id": 911,
+    "name": "Totem Tê Giác"
+  },
+  {
+    "id": 912,
+    "name": "Totem Don Don"
+  },
+  {
+    "id": 913,
+    "name": "Totem Hươu"
+  },
+  {
+    "id": 915,
+    "name": "Totem Cáo"
+  },
+  {
+    "id": 917,
+    "name": "Totem Flamas"
+  },
+  {
+    "id": 918,
+    "name": "Totem Hắc Long Viễn Cổ"
+  },
+  {
+    "id": 919,
+    "name": "Cờ Đỏ"
+  },
+  {
+    "id": 920,
+    "name": "Cờ Lam"
+  },
+  {
+    "id": 921,
+    "name": "Cờ Lục"
+  },
+  {
+    "id": 922,
+    "name": "Cờ Vàng"
+  },
+  {
+    "id": 923,
+    "name": "Cờ Cam"
+  },
+  {
+    "id": 924,
+    "name": "Cờ Tím"
+  },
+  {
+    "id": 925,
+    "name": "Cờ Trắng"
+  },
+  {
+    "id": 926,
+    "name": "Rào Đồng Đen"
+  },
+  {
+    "id": 927,
+    "name": "Hàng Rào Đồng Trắng"
+  },
+  {
+    "id": 928,
+    "name": "Chậu Nhỏ"
+  },
+  {
+    "id": 929,
+    "name": "Chậu Lớn"
+  },
+  {
+    "id": 930,
+    "name": "Giá Trưng Bày"
+  },
+  {
+    "id": 931,
+    "name": "Đế Nến"
+  },
+  {
+    "id": 932,
+    "name": "Đế Nến"
+  },
+  {
+    "id": 933,
+    "name": "Đèn Treo"
+  },
+  {
+    "id": 934,
+    "name": "Đèn Tường Trang Nhã"
+  },
+  {
+    "id": 935,
+    "name": "Đèn Tường Tinh Xảo"
+  },
+  {
+    "id": 936,
+    "name": "Đèn Bàn"
+  },
+  {
+    "id": 937,
+    "name": "Chữ Phúc"
+  },
+  {
+    "id": 938,
+    "name": "Bảng Chữ Câu Đối"
+  },
+  {
+    "id": 939,
+    "name": "Giấy Hoa Tết"
+  },
+  {
+    "id": 940,
+    "name": "Giấy Hoa Tết-Phúc"
+  },
+  {
+    "id": 941,
+    "name": "Giấy Hoa Tết-Lộc"
+  },
+  {
+    "id": 942,
+    "name": "Giấy Hoa Tết-Thọ"
+  },
+  {
+    "id": 943,
+    "name": "Giấy Hoa Tết-Hỷ"
+  },
+  {
+    "id": 944,
+    "name": "Lồng Đèn Xuân"
+  },
+  {
+    "id": 945,
+    "name": "Đèn Cung Đình"
+  },
+  {
+    "id": 946,
+    "name": "Chậu Sứ Đỏ"
+  },
+  {
+    "id": 947,
+    "name": "Chậu Sứ Lục"
+  },
+  {
+    "id": 948,
+    "name": "Chậu Sứ Lớn"
+  },
+  {
+    "id": 949,
+    "name": "Đèn Xuân"
+  },
+  {
+    "id": 950,
+    "name": "Trứng Ma Lực"
+  },
+  {
+    "id": 951,
+    "name": "Trứng Sóc Bay"
+  },
+  {
+    "id": 952,
+    "name": "Trứng Kỳ Lân"
+  },
+  {
+    "id": 953,
+    "name": "Trứng Chocobo"
+  },
+  {
+    "id": 954,
+    "name": "Trứng Voi Baby"
+  },
+  {
+    "id": 955,
+    "name": "Trứng Sư Tử Biển"
+  },
+  {
+    "id": 956,
+    "name": "Trứng Thần Thú Mèo"
+  },
+  {
+    "id": 957,
+    "name": "Trứng Bạch Mã"
+  },
+  {
+    "id": 958,
+    "name": "Trứng Hamster"
+  },
+  {
+    "id": 959,
+    "name": "Phiên bản hết hạn,hãy cập nhật lên bạn nhé!"
+  },
+  {
+    "id": 960,
+    "name": "Đá Tảng-Bê Tông"
+  },
+  {
+    "id": 961,
+    "name": "Đá Tảng-Đất Vụn"
+  },
+  {
+    "id": 962,
+    "name": "Đá Tảng Trắng"
+  },
+  {
+    "id": 963,
+    "name": "Đá Tảng-Băng Cứng"
+  },
+  {
+    "id": 964,
+    "name": "Đá Tảng-Tấm Thép"
+  },
+  {
+    "id": 965,
+    "name": "Ghế"
+  },
+  {
+    "id": 966,
+    "name": "Bàn"
+  },
+  {
+    "id": 967,
+    "name": "Xô-Pha"
+  },
+  {
+    "id": 968,
+    "name": "Lò Sưởi Nâu"
+  },
+  {
+    "id": 969,
+    "name": "Tủ"
+  },
+  {
+    "id": 970,
+    "name": "Ghế Trắng Ngà Voi"
+  },
+  {
+    "id": 971,
+    "name": "Bàn Trắng Ngà Voi"
+  },
+  {
+    "id": 972,
+    "name": "Xô-Pha Trắng Ngà Voi"
+  },
+  {
+    "id": 973,
+    "name": "Lò Sưởi Trắng"
+  },
+  {
+    "id": 974,
+    "name": "Tủ Trắng Ngà Voi"
+  },
+  {
+    "id": 975,
+    "name": "Ghế Gỗ Thông"
+  },
+  {
+    "id": 976,
+    "name": "Bàn Gỗ Thông"
+  },
+  {
+    "id": 977,
+    "name": "Xô-Pha Gỗ Thông"
+  },
+  {
+    "id": 978,
+    "name": "Lò Sưởi Đen"
+  },
+  {
+    "id": 979,
+    "name": "Tủ Gỗ Thông"
+  },
+  {
+    "id": 980,
+    "name": "Bánh Kem Sinh Nhật"
+  },
+  {
+    "id": 981,
+    "name": "Gạch Vuông"
+  },
+  {
+    "id": 982,
+    "name": "Gạch Nâu"
+  },
+  {
+    "id": 983,
+    "name": "Gạch Sọc Đen"
+  },
+  {
+    "id": 984,
+    "name": "Mảnh Kính Xanh Nhạt"
+  },
+  {
+    "id": 985,
+    "name": "Mảnh Kính Lục Lam"
+  },
+  {
+    "id": 986,
+    "name": "Cờ Màu"
+  },
+  {
+    "id": 987,
+    "name": ""
+  },
+  {
+    "id": 988,
+    "name": "Rương Bổ Sung"
+  },
+  {
+    "id": 989,
+    "name": "Rương Vật Phẩm Bổ Sung"
+  },
+  {
+    "id": 990,
+    "name": "Điểm Tập Hợp Chung"
+  },
+  {
+    "id": 991,
+    "name": "Đội 1: Điểm Hồi Sinh Đỏ"
+  },
+  {
+    "id": 992,
+    "name": "Đội 2: Điểm Hồi Sinh Lam"
+  },
+  {
+    "id": 993,
+    "name": "Đội 3: Điểm Hồi Sinh Lục"
+  },
+  {
+    "id": 994,
+    "name": "Đội 4: Điểm Hồi Sinh Vàng"
+  },
+  {
+    "id": 995,
+    "name": "Đội 5: Điểm Hồi Sinh Cam"
+  },
+  {
+    "id": 996,
+    "name": "Đội 6: Điểm Hồi Sinh Tím"
+  },
+  {
+    "id": 997,
+    "name": "Khối Vuông Sáng"
+  },
+  {
+    "id": 998,
+    "name": "Rương Bổ Sung Ban Đầu"
+  },
+  {
+    "id": 999,
+    "name": "Rương Bổ Sung Hồi Sinh"
+  },
+  {
+    "id": 1000,
+    "name": "Máy Sao Chép Khối"
+  },
+  {
+    "id": 1001,
+    "name": "Khối Ngăn Không Khí"
+  },
+  {
+    "id": 1002,
+    "name": "Máy Sao Chép Khối"
+  },
+  {
+    "id": 1003,
+    "name": ""
+  },
+  {
+    "id": 1004,
+    "name": "Viên (-)"
+  },
+  {
+    "id": 1005,
+    "name": "Viên (+)"
+  },
+  {
+    "id": 1006,
+    "name": "Viên 3"
+  },
+  {
+    "id": 1007,
+    "name": "Viên 4"
+  },
+  {
+    "id": 1008,
+    "name": "Khối Trượt"
+  },
+  {
+    "id": 1009,
+    "name": "Dây Tinh Năng Đỏ"
+  },
+  {
+    "id": 1010,
+    "name": "Khối Trục Quay"
+  },
+  {
+    "id": 1011,
+    "name": "Bảng Chỉ Đường Vào-Chung"
+  },
+  {
+    "id": 1012,
+    "name": "Bảng Chỉ Đường Dừng"
+  },
+  {
+    "id": 1013,
+    "name": "Đánh dấu số 0"
+  },
+  {
+    "id": 1014,
+    "name": "Bom X"
+  },
+  {
+    "id": 1015,
+    "name": "Bom X nhỏ"
+  },
+  {
+    "id": 1016,
+    "name": "Bom I"
+  },
+  {
+    "id": 1017,
+    "name": "Bom 1 Chiều Nhỏ"
+  },
+  {
+    "id": 1018,
+    "name": "Tường Không Khí-Có thể xuyên thủng"
+  },
+  {
+    "id": 1019,
+    "name": "Tổ"
+  },
+  {
+    "id": 1020,
+    "name": "Cám Dodo"
+  },
+  {
+    "id": 1021,
+    "name": "Cúp Ngôi Sao Lấp Lánh"
+  },
+  {
+    "id": 1022,
+    "name": ""
+  },
+  {
+    "id": 1023,
+    "name": "Không khả dụng trong phiên bản này"
+  },
+  {
+    "id": 1024,
+    "name": "Không khả dụng trong phiên bản này"
+  },
+  {
+    "id": 1025,
+    "name": "Không khả dụng trong phiên bản này"
+  },
+  {
+    "id": 1026,
+    "name": "Bảng Chỉ Đường Vào-Đội 1"
+  },
+  {
+    "id": 1027,
+    "name": "Bảng Chỉ Đường Vào-Đội 2"
+  },
+  {
+    "id": 1028,
+    "name": "Bảng Chỉ Đường Vào-Đội 3"
+  },
+  {
+    "id": 1029,
+    "name": "Bảng Chỉ Đường Vào-Đội 4"
+  },
+  {
+    "id": 1030,
+    "name": "Bảng Chỉ Đường Vào-Đội 5"
+  },
+  {
+    "id": 1031,
+    "name": "Bảng Chỉ Đường Vào-Đội 6"
+  },
+  {
+    "id": 1032,
+    "name": "Khối Cảm Ứng"
+  },
+  {
+    "id": 1033,
+    "name": "Máy Tính"
+  },
+  {
+    "id": 1034,
+    "name": "Điện Trở Tinh Năng"
+  },
+  {
+    "id": 1035,
+    "name": "Bình Bổ Sung Ngẫu Nhiên"
+  },
+  {
+    "id": 1036,
+    "name": "Điểm chuẩn bị (ready)"
+  },
+  {
+    "id": 1037,
+    "name": "Trigger"
+  },
+  {
+    "id": 1038,
+    "name": "Trigger Sinh vật"
+  },
+  {
+    "id": 1039,
+    "name": "Khối Điểm"
+  },
+  {
+    "id": 1040,
+    "name": "Trigger Điểm"
+  },
+  {
+    "id": 1042,
+    "name": "Totem Thần Bí"
+  },
+  {
+    "id": 1043,
+    "name": "Tổ Vật Đá Quý"
+  },
+  {
+    "id": 1044,
+    "name": "Tổ Vật Quyền Lực"
+  },
+  {
+    "id": 1045,
+    "name": "Bơm oxy"
+  },
+  {
+    "id": 1046,
+    "name": "Bó Đuốc - Tắt Dụi"
+  },
+  {
+    "id": 1047,
+    "name": "Bình Gas (Trống)"
+  },
+  {
+    "id": 1048,
+    "name": "Bình Oxy"
+  },
+  {
+    "id": 1049,
+    "name": "Totem bí ẩn (Chứa độc)"
+  },
+  {
+    "id": 1050,
+    "name": "Môi trường thực vật"
+  },
+  {
+    "id": 1051,
+    "name": "Quả Oxy"
+  },
+  {
+    "id": 1052,
+    "name": "Máy Phát Tín Hiệu"
+  },
+  {
+    "id": 1053,
+    "name": "Máy Thu Tín Hiệu"
+  },
+  {
+    "id": 1054,
+    "name": "Máy Phân Tích Tín Hiệu"
+  },
+  {
+    "id": 1055,
+    "name": "Rương mật mã nhỏ"
+  },
+  {
+    "id": 1056,
+    "name": "Rương mật mã lớn"
+  },
+  {
+    "id": 1057,
+    "name": "Hộp quà Horas"
+  },
+  {
+    "id": 1058,
+    "name": "Tượng Tên Khổng Lồ"
+  },
+  {
+    "id": 1059,
+    "name": "Lõi Đá Năng Lượng"
+  },
+  {
+    "id": 1060,
+    "name": "Gương phản chiếu"
+  },
+  {
+    "id": 1061,
+    "name": "Bình Cổ Kim"
+  },
+  {
+    "id": 1062,
+    "name": "Khối Sao Chép Kiến Trúc"
+  },
+  {
+    "id": 1063,
+    "name": "Bản Thảo Bàn Làm Việc"
+  },
+  {
+    "id": 1064,
+    "name": "Công Thức Sao Chép"
+  },
+  {
+    "id": 1065,
+    "name": "Bản Thiết Kế Khối Xây Dựng"
+  },
+  {
+    "id": 1066,
+    "name": "Khối Đo Số Lượng"
+  },
+  {
+    "id": 1067,
+    "name": "Khối Chạm Vật Lý"
+  },
+  {
+    "id": 1068,
+    "name": "Khối Rổ"
+  },
+  {
+    "id": 1069,
+    "name": "Khối sao"
+  },
+  {
+    "id": 1070,
+    "name": "Khối Huỳnh Quang"
+  },
+  {
+    "id": 1071,
+    "name": "Vụn Huỳnh Quang"
+  },
+  {
+    "id": 1072,
+    "name": "Điểm Xuất Hiện Ưu Tiên"
+  },
+  {
+    "id": 1073,
+    "name": "Đội 1: Điểm xuất hiện của đội Đỏ"
+  },
+  {
+    "id": 1074,
+    "name": "Đội 2: Điểm xuất hiện của đội Lam"
+  },
+  {
+    "id": 1075,
+    "name": "Đội 3: Điểm xuất hiện của đội Xanh"
+  },
+  {
+    "id": 1076,
+    "name": "Đội 4: Điểm xuất hiện của đội Vàng"
+  },
+  {
+    "id": 1077,
+    "name": "Đội 5: Điểm xuất hiện của đội Cam"
+  },
+  {
+    "id": 1078,
+    "name": "Đội 6: Điểm xuất hiện của đội Tím"
+  },
+  {
+    "id": 1079,
+    "name": "Điểm Hồi Sinh Cá Nhân"
+  },
+  {
+    "id": 1080,
+    "name": "Khối Quét Quái"
+  },
+  {
+    "id": 1081,
+    "name": "Khối Tàng Hình - Vật phẩm có đặc tính vật lý có thể xuyên thủng"
+  },
+  {
+    "id": 1082,
+    "name": "Khối Thân Xe (Test)"
+  },
+  {
+    "id": 1083,
+    "name": "Bánh Xe Trước"
+  },
+  {
+    "id": 1084,
+    "name": "Ghế Tài Xế"
+  },
+  {
+    "id": 1085,
+    "name": "Xưởng chế tạo máy"
+  },
+  {
+    "id": 1086,
+    "name": "Phân Xưởng (Test)"
+  },
+  {
+    "id": 1087,
+    "name": "Bánh Xe Sau"
+  },
+  {
+    "id": 1088,
+    "name": "Động Cơ (Test)"
+  },
+  {
+    "id": 1089,
+    "name": "Động Cơ Xăng"
+  },
+  {
+    "id": 1090,
+    "name": "Động Cơ Vĩnh Viễn"
+  },
+  {
+    "id": 1091,
+    "name": "Ghế hành khách"
+  },
+  {
+    "id": 1092,
+    "name": "Máy Trình Tự Động Tác"
+  },
+  {
+    "id": 1093,
+    "name": "Máy Phản Lực"
+  },
+  {
+    "id": 1094,
+    "name": "Cánh Máy Bay"
+  },
+  {
+    "id": 1095,
+    "name": "Cánh Đuôi (Máy Bay)"
+  },
+  {
+    "id": 1096,
+    "name": "Động Cơ Nâng (Máy Bay)"
+  },
+  {
+    "id": 1097,
+    "name": "Cánh tay robot XI"
+  },
+  {
+    "id": 1099,
+    "name": "Bình Gas"
+  },
+  {
+    "id": 1100,
+    "name": "Map khối dịch chuyển"
+  },
+  {
+    "id": 1101,
+    "name": "Cửa phòng thí nghiệm"
+  },
+  {
+    "id": 1102,
+    "name": "Băng Gương"
+  },
+  {
+    "id": 1103,
+    "name": "Đèn Băng"
+  },
+  {
+    "id": 1104,
+    "name": "Khối Tinh Năng Horas"
+  },
+  {
+    "id": 1105,
+    "name": "Khối Bạc Kín Lực Sao"
+  },
+  {
+    "id": 1106,
+    "name": "Ván Bạc Kín Lực Sao"
+  },
+  {
+    "id": 1107,
+    "name": "Khối Bạc Kín Sợi Tím"
+  },
+  {
+    "id": 1108,
+    "name": "Ván Bạc Kín Dày"
+  },
+  {
+    "id": 1109,
+    "name": "Ván Bạc Kín Chạm Rỗng"
+  },
+  {
+    "id": 1110,
+    "name": "Đèn phòng thí nghiệm"
+  },
+  {
+    "id": 1111,
+    "name": "Cửa Bạc Kín Gỉ Sét"
+  },
+  {
+    "id": 1112,
+    "name": "Lưới Tơ Bạc Kín"
+  },
+  {
+    "id": 1113,
+    "name": "Ván Bạc Kín Sọc Dọc"
+  },
+  {
+    "id": 1114,
+    "name": "Ván Bạc Kín Gỉ Sét"
+  },
+  {
+    "id": 1115,
+    "name": "Ván Bạc Kín Hoa Văn Gỉ Sét"
+  },
+  {
+    "id": 1116,
+    "name": "Ván Bạc Kín Chạm Rỗng Gỉ Sét"
+  },
+  {
+    "id": 1117,
+    "name": "Khối Bạc Kín Lực Sao Gỉ Sét"
+  },
+  {
+    "id": 1118,
+    "name": "Đèn huỳnh quang"
+  },
+  {
+    "id": 1119,
+    "name": "Khối Bạc Kín Hoa Văn"
+  },
+  {
+    "id": 1120,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1121,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1122,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1123,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1124,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1125,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1126,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1127,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1128,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1129,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1130,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1131,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1132,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1133,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1134,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1135,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1136,
+    "name": "Màn Che Mùa Đông"
+  },
+  {
+    "id": 1137,
+    "name": "Nến Đỏ Lãng Mạn"
+  },
+  {
+    "id": 1138,
+    "name": "Bàn Chế Tạo Mô Hình Mini"
+  },
+  {
+    "id": 1139,
+    "name": "Nến Đỏ Lãng Mạn"
+  },
+  {
+    "id": 1140,
+    "name": "Khối Vận Chuyển Lõi"
+  },
+  {
+    "id": 1141,
+    "name": "Khối Vận Chuyển"
+  },
+  {
+    "id": 1142,
+    "name": "Bàn Chế Tạo Công Cụ"
+  },
+  {
+    "id": 1143,
+    "name": "Bàn Tạo Sách"
+  },
+  {
+    "id": 1144,
+    "name": "Giá Sách"
+  },
+  {
+    "id": 1145,
+    "name": "Họa tiết Xuân Tân Sửu"
+  },
+  {
+    "id": 1146,
+    "name": "Đèn lồng lễ hội"
+  },
+  {
+    "id": 1147,
+    "name": "Miếng Dán Mùa Xuân - Nhâm Dần"
+  },
+  {
+    "id": 1148,
+    "name": ""
+  },
+  {
+    "id": 1149,
+    "name": ""
+  },
+  {
+    "id": 1150,
+    "name": "Khối Mô Hình NPC"
+  },
+  {
+    "id": 1151,
+    "name": "Máy Chỉnh Sửa Động Tác Mô Hình"
+  },
+  {
+    "id": 1152,
+    "name": ""
+  },
+  {
+    "id": 1153,
+    "name": "Đánh dấu (-)"
+  },
+  {
+    "id": 1154,
+    "name": "Đánh dấu (+)"
+  },
+  {
+    "id": 1155,
+    "name": "Khối Trượt"
+  },
+  {
+    "id": 1156,
+    "name": "Khối Trục Quay"
+  },
+  {
+    "id": 1157,
+    "name": "Công tắc"
+  },
+  {
+    "id": 1158,
+    "name": "Bản Lề Hình Cầu"
+  },
+  {
+    "id": 1159,
+    "name": "Bản Lề"
+  },
+  {
+    "id": 1160,
+    "name": "Kẹp Gắp"
+  },
+  {
+    "id": 1161,
+    "name": "Cánh Tay Thủy Lực (Kéo Giãn)"
+  },
+  {
+    "id": 1162,
+    "name": ""
+  },
+  {
+    "id": 1163,
+    "name": ""
+  },
+  {
+    "id": 1164,
+    "name": "Giảm Chấn"
+  },
+  {
+    "id": 1165,
+    "name": "Dây Nâng"
+  },
+  {
+    "id": 1166,
+    "name": ""
+  },
+  {
+    "id": 1167,
+    "name": ""
+  },
+  {
+    "id": 1168,
+    "name": "Khối Cảm Biến Hồng Ngoại"
+  },
+  {
+    "id": 1169,
+    "name": "Máy Cảm Biến Ánh Sáng"
+  },
+  {
+    "id": 1170,
+    "name": ""
+  },
+  {
+    "id": 1171,
+    "name": ""
+  },
+  {
+    "id": 1180,
+    "name": "Hộp lưu trữ lớn (ngang)"
+  },
+  {
+    "id": 1181,
+    "name": "Hộp lưu trữ lớn (dọc)"
+  },
+  {
+    "id": 1182,
+    "name": "Bộ Dao Động Tinh Năng"
+  },
+  {
+    "id": 1183,
+    "name": "Ván Cảm Áp Gạch Nung Vàng"
+  },
+  {
+    "id": 1184,
+    "name": "Gian Hàng Tinh Năng"
+  },
+  {
+    "id": 1185,
+    "name": "Ổ Dodo"
+  },
+  {
+    "id": 1186,
+    "name": "Hoa Bỉ Ngạn"
+  },
+  {
+    "id": 1187,
+    "name": "Dứa Bỉ Ngạn"
+  },
+  {
+    "id": 1188,
+    "name": "Bánh Lái Thuyền"
+  },
+  {
+    "id": 1189,
+    "name": "Máy Đẩy Xoắn Ốc"
+  },
+  {
+    "id": 1190,
+    "name": "Thùng Nổi"
+  },
+  {
+    "id": 1191,
+    "name": "Tượng Thần Biển"
+  },
+  {
+    "id": 1192,
+    "name": "Giá Phơi Thịt"
+  },
+  {
+    "id": 1193,
+    "name": "Tượng Thần Biển (Bể)"
+  },
+  {
+    "id": 1194,
+    "name": "Hạt Bỉ Ngạn"
+  },
+  {
+    "id": 1195,
+    "name": "Xô-Pha Đôi Vỏ Ốc"
+  },
+  {
+    "id": 1196,
+    "name": "Cánh tay robot II"
+  },
+  {
+    "id": 1197,
+    "name": "Cánh tay robot đẩy và kéo II"
+  },
+  {
+    "id": 1198,
+    "name": "Bộ phận cánh tay robot II"
+  },
+  {
+    "id": 1199,
+    "name": "Cánh tay robot di chuyển II"
+  },
+  {
+    "id": 1200,
+    "name": "Lửa Trại"
+  },
+  {
+    "id": 1201,
+    "name": "Bia Đá"
+  },
+  {
+    "id": 1202,
+    "name": "Vật Tổ Làng"
+  },
+  {
+    "id": 1203,
+    "name": "Lá Cờ Thần Nông"
+  },
+  {
+    "id": 1204,
+    "name": "Lá Cờ Tiều Phu"
+  },
+  {
+    "id": 1205,
+    "name": "Lá Cờ Hộ Vệ"
+  },
+  {
+    "id": 1206,
+    "name": "Khối Thủy Tinh Cứng Trong Suốt"
+  },
+  {
+    "id": 1207,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1208,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1209,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1210,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1211,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1212,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1213,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1214,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1215,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1216,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1217,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1218,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1219,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1220,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1221,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1222,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1223,
+    "name": "Giường Vỏ Ốc"
+  },
+  {
+    "id": 1224,
+    "name": "Xô-Pha Vỏ Ốc"
+  },
+  {
+    "id": 1225,
+    "name": "Bàn Vỏ Ốc"
+  },
+  {
+    "id": 1226,
+    "name": "Ghế Vỏ Ốc"
+  },
+  {
+    "id": 1227,
+    "name": "Cửa San Hô"
+  },
+  {
+    "id": 1228,
+    "name": "Cửa Vỏ Ốc"
+  },
+  {
+    "id": 1229,
+    "name": "Cửa Sổ San Hô"
+  },
+  {
+    "id": 1230,
+    "name": "Cửa Sổ Vỏ Ốc"
+  },
+  {
+    "id": 1231,
+    "name": "Tủ Chứa Đồ Đại Dương"
+  },
+  {
+    "id": 1232,
+    "name": "Bình Phong Đại Dương"
+  },
+  {
+    "id": 1233,
+    "name": "Cầu Thang Vỏ Ốc"
+  },
+  {
+    "id": 1234,
+    "name": "Tủ Quần Áo Đại Dương"
+  },
+  {
+    "id": 1235,
+    "name": "Đèn Đứng Đại Dương"
+  },
+  {
+    "id": 1236,
+    "name": "Đèn Treo Đại Dương"
+  },
+  {
+    "id": 1237,
+    "name": "Đèn Bàn Đèn Vỏ Ốc"
+  },
+  {
+    "id": 1238,
+    "name": "Chậu Lớn Đại Dương"
+  },
+  {
+    "id": 1239,
+    "name": "Hàng Rào San Hô"
+  },
+  {
+    "id": 1240,
+    "name": "Cửa Hàng Rào San Hô"
+  },
+  {
+    "id": 1241,
+    "name": "Hàng Rào Vỏ Ốc"
+  },
+  {
+    "id": 1242,
+    "name": "Cửa Hàng Rào Vỏ Ốc"
+  },
+  {
+    "id": 1243,
+    "name": "Chuông Gió Vỏ Ốc"
+  },
+  {
+    "id": 1244,
+    "name": "Ván Nghiêng Nham Thạch"
+  },
+  {
+    "id": 1245,
+    "name": "Ván Nghiêng Tre Trúc"
+  },
+  {
+    "id": 1246,
+    "name": "Ván Nghiêng Đỏ Son"
+  },
+  {
+    "id": 1247,
+    "name": "Ván Nghiêng Gạch Xi Măng"
+  },
+  {
+    "id": 1248,
+    "name": "Ván Nghiêng Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 1249,
+    "name": "Ván Nghiêng Đá"
+  },
+  {
+    "id": 1250,
+    "name": "Ván Nghiêng Đá Tinh Chế"
+  },
+  {
+    "id": 1251,
+    "name": "Ván Nghiêng Titan"
+  },
+  {
+    "id": 1252,
+    "name": "Ván Nghiêng Đồng Vàng"
+  },
+  {
+    "id": 1253,
+    "name": "Ván Nghiêng Mi-ca"
+  },
+  {
+    "id": 1254,
+    "name": "Ván Nghiêng Bạc Kín"
+  },
+  {
+    "id": 1255,
+    "name": "Ván Nghiêng Lửa Rực"
+  },
+  {
+    "id": 1256,
+    "name": "Ván Nghiêng Vàng Chanh"
+  },
+  {
+    "id": 1257,
+    "name": "Ván Nghiêng Xám Đá Biếc"
+  },
+  {
+    "id": 1258,
+    "name": "Ván Nghiêng Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 1259,
+    "name": "Ván Nghiêng Cam Hoàng Hôn"
+  },
+  {
+    "id": 1260,
+    "name": "Ván Nghiêng Đỏ Hải Đường"
+  },
+  {
+    "id": 1261,
+    "name": "Ván Nghiêng Trắng Ngà Voi"
+  },
+  {
+    "id": 1262,
+    "name": "Ván Nghiêng Cam Lá Thu"
+  },
+  {
+    "id": 1263,
+    "name": "Ván Nghiêng"
+  },
+  {
+    "id": 1264,
+    "name": "Ván Nghiêng Gạch Nung Vàng"
+  },
+  {
+    "id": 1265,
+    "name": "Ván Nghiêng Khối Manga"
+  },
+  {
+    "id": 1266,
+    "name": "Gỗ Dừa"
+  },
+  {
+    "id": 1267,
+    "name": "Ván Nghiêng Mỏng Nham Thạch"
+  },
+  {
+    "id": 1268,
+    "name": "Ván Nghiêng Mỏng Lớn Nham Thạch"
+  },
+  {
+    "id": 1269,
+    "name": "Ván Nghiêng Mỏng Tre Trúc"
+  },
+  {
+    "id": 1270,
+    "name": "Ván Nghiêng Mỏng Lớn Tre Trúc"
+  },
+  {
+    "id": 1271,
+    "name": "Ván Nghiêng Mỏng Đỏ Son"
+  },
+  {
+    "id": 1272,
+    "name": "Ván Nghiêng Mỏng Lớn Đỏ Son"
+  },
+  {
+    "id": 1273,
+    "name": "Ván Nghiêng Mỏng Gạch Xi Măng"
+  },
+  {
+    "id": 1274,
+    "name": "Ván Nghiêng Mỏng Lớn Gạch Xi Măng"
+  },
+  {
+    "id": 1275,
+    "name": "Ván Nghiêng Mỏng Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 1276,
+    "name": "Ván Nghiêng Mỏng Lớn Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 1277,
+    "name": "Ván Nghiêng Mỏng Đá"
+  },
+  {
+    "id": 1278,
+    "name": "Ván Nghiêng Mỏng Lớn Đá"
+  },
+  {
+    "id": 1279,
+    "name": "Ván Nghiêng Mỏng Gạch Nung"
+  },
+  {
+    "id": 1280,
+    "name": "Ván Nghiêng Mỏng Lớn Gạch Nung"
+  },
+  {
+    "id": 1281,
+    "name": "Ván Nghiêng Mỏng Titan"
+  },
+  {
+    "id": 1282,
+    "name": "Ván Nghiêng Mỏng Lớn Titan"
+  },
+  {
+    "id": 1283,
+    "name": "Ván Nghiêng Mỏng Đồng Vàng"
+  },
+  {
+    "id": 1284,
+    "name": "Ván Nghiêng Mỏng Lớn Đồng Vàng"
+  },
+  {
+    "id": 1285,
+    "name": "Ván Nghiêng Mỏng Mi-ca"
+  },
+  {
+    "id": 1286,
+    "name": "Ván Nghiêng Mỏng Lớn Mi-ca"
+  },
+  {
+    "id": 1287,
+    "name": "Ván Nghiêng Mỏng Bạc Kín"
+  },
+  {
+    "id": 1288,
+    "name": "Ván Nghiêng Mỏng Lớn Bạc Kín"
+  },
+  {
+    "id": 1289,
+    "name": "Ván Nghiêng Mỏng Lửa Rực"
+  },
+  {
+    "id": 1290,
+    "name": "Ván Nghiêng Mỏng Lớn Lửa Rực"
+  },
+  {
+    "id": 1291,
+    "name": "Ván Nghiêng Mỏng Vàng"
+  },
+  {
+    "id": 1292,
+    "name": "Ván Nghiêng Mỏng Lớn Vàng"
+  },
+  {
+    "id": 1293,
+    "name": "Ván Nghiêng Mỏng Xám"
+  },
+  {
+    "id": 1294,
+    "name": "Ván Nghiêng Mỏng Lớn Xám"
+  },
+  {
+    "id": 1295,
+    "name": "Ván Nghiêng Mỏng Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 1296,
+    "name": "Ván Nghiêng Mỏng Lớn Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 1297,
+    "name": "Ván Nghiêng Mỏng Cam Hoàng Hôn"
+  },
+  {
+    "id": 1298,
+    "name": "Ván Nghiêng Mỏng Lớn Cam Hoàng Hôn"
+  },
+  {
+    "id": 1299,
+    "name": "Ván Nghiêng Mỏng Đỏ Hải Đường"
+  },
+  {
+    "id": 1300,
+    "name": "Ván Nghiêng Mỏng Lớn Đỏ Hải Đường"
+  },
+  {
+    "id": 1301,
+    "name": "Ván Nghiêng Mỏng Trắng Ngà Voi"
+  },
+  {
+    "id": 1302,
+    "name": "Ván Nghiêng Mỏng Lớn Trắng Ngà Voi"
+  },
+  {
+    "id": 1303,
+    "name": "Ván Nghiêng Mỏng Cam Lá Thu"
+  },
+  {
+    "id": 1304,
+    "name": "Ván Nghiêng Mỏng Lớn Cam Lá Thu"
+  },
+  {
+    "id": 1305,
+    "name": "Ván Nghiêng Mỏng"
+  },
+  {
+    "id": 1306,
+    "name": "Ván Nghiêng Mỏng Lớn"
+  },
+  {
+    "id": 1307,
+    "name": "Ván Nghiêng Mỏng Gạch Nung Vàng"
+  },
+  {
+    "id": 1308,
+    "name": "Ván Nghiêng Mỏng Lớn Gạch Nung Vàng"
+  },
+  {
+    "id": 1309,
+    "name": "Ván Nghiêng Mỏng Khối Manga"
+  },
+  {
+    "id": 1310,
+    "name": "Ván Nghiêng Mỏng Lớn Khối Manga"
+  },
+  {
+    "id": 1311,
+    "name": "Ván Nghiêng Mỏng Nham Thạch"
+  },
+  {
+    "id": 1312,
+    "name": "Ván Nghiêng Mỏng Lớn Nham Thạch"
+  },
+  {
+    "id": 1313,
+    "name": "Ván Nghiêng Mỏng Tre Trúc"
+  },
+  {
+    "id": 1314,
+    "name": "Ván Nghiêng Mỏng Lớn Tre Trúc"
+  },
+  {
+    "id": 1315,
+    "name": "Ván Nghiêng Mỏng Dọc Đỏ Son"
+  },
+  {
+    "id": 1316,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Đỏ Son"
+  },
+  {
+    "id": 1317,
+    "name": "Ván Nghiêng Mỏng Dọc Gạch Xi Măng"
+  },
+  {
+    "id": 1318,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Gạch Xi Măng"
+  },
+  {
+    "id": 1319,
+    "name": "Ván Nghiêng Mỏng Dọc Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 1320,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 1321,
+    "name": "Ván Nghiêng Mỏng Dọc Đá"
+  },
+  {
+    "id": 1322,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Đá"
+  },
+  {
+    "id": 1323,
+    "name": "Ván Nghiêng Mỏng Dọc Đá Tinh Chế"
+  },
+  {
+    "id": 1324,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Đá Tinh Chế"
+  },
+  {
+    "id": 1325,
+    "name": "Ván Nghiêng Mỏng Dọc Titan"
+  },
+  {
+    "id": 1326,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Titan"
+  },
+  {
+    "id": 1327,
+    "name": "Ván Nghiêng Mỏng Dọc Đồng Vàng"
+  },
+  {
+    "id": 1328,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Đồng Vàng"
+  },
+  {
+    "id": 1329,
+    "name": "Ván Nghiêng Mỏng Dọc Mi-ca"
+  },
+  {
+    "id": 1330,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Mi-ca"
+  },
+  {
+    "id": 1331,
+    "name": "Ván Nghiêng Mỏng Dọc Bạc Kín"
+  },
+  {
+    "id": 1332,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Bạc Kín"
+  },
+  {
+    "id": 1333,
+    "name": "Ván Nghiêng Mỏng Dọc Lửa Rực"
+  },
+  {
+    "id": 1334,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Lửa Rực"
+  },
+  {
+    "id": 1335,
+    "name": "Ván Nghiêng Mỏng Dọc Vàng Chanh"
+  },
+  {
+    "id": 1336,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Vàng Chanh"
+  },
+  {
+    "id": 1337,
+    "name": "Ván Nghiêng Mỏng Dọc Đá Biếc"
+  },
+  {
+    "id": 1338,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Đá Biếc"
+  },
+  {
+    "id": 1339,
+    "name": "Ván Nghiêng Mỏng Dọc Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 1340,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 1341,
+    "name": "Ván Nghiêng Mỏng Dọc Cam Hoàng Hôn"
+  },
+  {
+    "id": 1342,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Cam Hoàng Hôn"
+  },
+  {
+    "id": 1343,
+    "name": "Ván Nghiêng Mỏng Dọc Đỏ Hải Đường"
+  },
+  {
+    "id": 1344,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Đỏ Hải Đường"
+  },
+  {
+    "id": 1345,
+    "name": "Ván Nghiêng Mỏng Dọc Trắng Ngà Voi"
+  },
+  {
+    "id": 1346,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Trắng Ngà Voi"
+  },
+  {
+    "id": 1347,
+    "name": "Ván Nghiêng Mỏng Dọc Cam Lá Thu"
+  },
+  {
+    "id": 1348,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Cam Lá Thu"
+  },
+  {
+    "id": 1349,
+    "name": "Ván Nghiêng Mỏng Dọc"
+  },
+  {
+    "id": 1350,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn"
+  },
+  {
+    "id": 1351,
+    "name": "Ván Nghiêng Mỏng Dọc Gạch Nung Vàng"
+  },
+  {
+    "id": 1352,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Gạch Nung Vàng"
+  },
+  {
+    "id": 1353,
+    "name": "Ván Nghiêng Mỏng Dọc Khối Manga"
+  },
+  {
+    "id": 1354,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Khối Manga"
+  },
+  {
+    "id": 1355,
+    "name": "Ván Dọc Nham Thạch"
+  },
+  {
+    "id": 1356,
+    "name": "Ván Dọc Tre Trúc"
+  },
+  {
+    "id": 1357,
+    "name": "Ván Dọc Đỏ Son"
+  },
+  {
+    "id": 1358,
+    "name": "Ván Dọc Gạch Xi Măng"
+  },
+  {
+    "id": 1359,
+    "name": "Ván Dọc Gạch Lưu Huỳnh"
+  },
+  {
+    "id": 1360,
+    "name": "Ván Dọc Đá"
+  },
+  {
+    "id": 1361,
+    "name": "Ván Dọc Đá Tinh Chế"
+  },
+  {
+    "id": 1362,
+    "name": "Ván Dọc Titan"
+  },
+  {
+    "id": 1363,
+    "name": "Ván Dọc Đồng Vàng"
+  },
+  {
+    "id": 1364,
+    "name": "Ván Dọc Mi-ca"
+  },
+  {
+    "id": 1365,
+    "name": "Ván Dọc Bạc Kín"
+  },
+  {
+    "id": 1366,
+    "name": "Ván Dọc Lửa Rực"
+  },
+  {
+    "id": 1367,
+    "name": "Vàng Chanh Vàng Chanh"
+  },
+  {
+    "id": 1368,
+    "name": "Ván Dọc Xám Đá Biếc"
+  },
+  {
+    "id": 1369,
+    "name": "Ván Dọc Đỏ Hạt Dẻ Đậm"
+  },
+  {
+    "id": 1370,
+    "name": "Ván Dọc Cam Hoàng Hôn"
+  },
+  {
+    "id": 1371,
+    "name": "Ván Dọc Đỏ Hải Đường"
+  },
+  {
+    "id": 1372,
+    "name": "Ván Dọc Trắng Ngà Voi"
+  },
+  {
+    "id": 1373,
+    "name": "Ván Dọc Cam Lá Thu"
+  },
+  {
+    "id": 1374,
+    "name": "Ván Dọc"
+  },
+  {
+    "id": 1375,
+    "name": "Ván Dọc Gạch Nung Vàng"
+  },
+  {
+    "id": 1376,
+    "name": "Ván Dọc Khối Manga"
+  },
+  {
+    "id": 1377,
+    "name": "Đèn Đứng Đại Dương"
+  },
+  {
+    "id": 1378,
+    "name": "Đèn Treo Đại Dương"
+  },
+  {
+    "id": 1379,
+    "name": "Đèn Bàn Vỏ Ốc"
+  },
+  {
+    "id": 1380,
+    "name": "Ván Gỗ Xám Biếc Nhạt"
+  },
+  {
+    "id": 1381,
+    "name": "Cầu Thang Xám Biếc Nhạt"
+  },
+  {
+    "id": 1382,
+    "name": "Ván Mỏng Xám Biếc Nhạt"
+  },
+  {
+    "id": 1383,
+    "name": "Ván Nghiêng Xám Biếc Nhạt"
+  },
+  {
+    "id": 1384,
+    "name": "Ván Nghiêng Mỏng Xám Biếc Nhạt"
+  },
+  {
+    "id": 1385,
+    "name": "Ván Nghiêng Mỏng Lớn Xám Biếc Nhạt"
+  },
+  {
+    "id": 1386,
+    "name": "Ván Nghiêng Mỏng Dọc Xám Biếc Nhạt"
+  },
+  {
+    "id": 1387,
+    "name": "Ván Nghiêng Mỏng Dọc Lớn Xám Biếc Nhạt"
+  },
+  {
+    "id": 1388,
+    "name": "Ván Dọc Xám Biếc Nhạt"
+  },
+  {
+    "id": 1389,
+    "name": "Chiến Lợi Phẩm Ngưu Băng Vương"
+  },
+  {
+    "id": 1400,
+    "name": "Hộp nhạc"
+  },
+  {
+    "id": 1401,
+    "name": "Khung cảnh bầu trời"
+  },
+  {
+    "id": 1402,
+    "name": "Thiết bị trọng lực"
+  },
+  {
+    "id": 1403,
+    "name": "Điều khiển thời tiết"
+  },
+  {
+    "id": 1404,
+    "name": "Bàn làm việc tại nhà"
+  },
+  {
+    "id": 1405,
+    "name": "Chuồng thú cưng"
+  },
+  {
+    "id": 1406,
+    "name": "Bếp đơn giản"
+  },
+  {
+    "id": 1407,
+    "name": "Tường nhà không khí"
+  },
+  {
+    "id": 1451,
+    "name": "Khung danh dự"
+  },
+  {
+    "id": 1452,
+    "name": "Hoa hướng dương"
+  },
+  {
+    "id": 1453,
+    "name": "Cây thùa đỏ"
+  },
+  {
+    "id": 1454,
+    "name": "Hoa huyết dụ"
+  },
+  {
+    "id": 1455,
+    "name": "Hoa hồng dại"
+  },
+  {
+    "id": 1456,
+    "name": "Hoa cúc trắng"
+  },
+  {
+    "id": 1457,
+    "name": "Lá trà"
+  },
+  {
+    "id": 1458,
+    "name": "Chuối"
+  },
+  {
+    "id": 1459,
+    "name": "Quả Cá To"
+  },
+  {
+    "id": 1460,
+    "name": "Cây xoài"
+  },
+  {
+    "id": 1461,
+    "name": "Cây Lê"
+  },
+  {
+    "id": 1462,
+    "name": "Cây Quýt"
+  },
+  {
+    "id": 1463,
+    "name": "Cây Đào"
+  },
+  {
+    "id": 1464,
+    "name": "Lúa Nước"
+  },
+  {
+    "id": 1465,
+    "name": "Ngô"
+  },
+  {
+    "id": 1466,
+    "name": "Khoai Lang"
+  },
+  {
+    "id": 1467,
+    "name": "Bí Ngô"
+  },
+  {
+    "id": 1468,
+    "name": "Mía"
+  },
+  {
+    "id": 1469,
+    "name": "Tổ Ong"
+  },
+  {
+    "id": 1470,
+    "name": "Cây Ớt"
+  },
+  {
+    "id": 1471,
+    "name": "Cây Bông Gòn"
+  },
+  {
+    "id": 1472,
+    "name": "Cây Ăn Quả"
+  },
+  {
+    "id": 1473,
+    "name": "Cây Thông"
+  },
+  {
+    "id": 1474,
+    "name": "Cây Bạch Dương"
+  },
+  {
+    "id": 1475,
+    "name": "Cây Trà Đỏ"
+  },
+  {
+    "id": 1476,
+    "name": "Cây Nan"
+  },
+  {
+    "id": 1477,
+    "name": "Cây Óc Chó"
+  },
+  {
+    "id": 1478,
+    "name": "Nấm Nhỏ Ăn Được"
+  },
+  {
+    "id": 1479,
+    "name": "Nấm Đỏ Ăn Được"
+  },
+  {
+    "id": 1480,
+    "name": "Cây Cà Phê"
+  },
+  {
+    "id": 1481,
+    "name": "Cây Quả Hồng Sam"
+  },
+  {
+    "id": 1482,
+    "name": "Cây Oxy"
+  },
+  {
+    "id": 1483,
+    "name": "Cây Thùa Cam"
+  },
+  {
+    "id": 1484,
+    "name": "Cây Thùa Xám"
+  },
+  {
+    "id": 1485,
+    "name": "Cây Thùa Hồng"
+  },
+  {
+    "id": 1486,
+    "name": "Cà Rốt"
+  },
+  {
+    "id": 1493,
+    "name": "Hoa hướng dương (cây con)"
+  },
+  {
+    "id": 1494,
+    "name": "Cây Thùa Đỏ (cây con)"
+  },
+  {
+    "id": 1495,
+    "name": "Cây Thùa Cam (cây con)"
+  },
+  {
+    "id": 1496,
+    "name": "Cây Thùa Xám (cây con)"
+  },
+  {
+    "id": 1497,
+    "name": "Cây Thùa Hồng (cây con)"
+  },
+  {
+    "id": 1498,
+    "name": "Hoa huyết long (cây con)"
+  },
+  {
+    "id": 1499,
+    "name": "Hoa hồng dại (cây con)"
+  },
+  {
+    "id": 1500,
+    "name": "Hoa cúc trắng (cây con)"
+  },
+  {
+    "id": 1501,
+    "name": "Quả Cá To (Mầm)"
+  },
+  {
+    "id": 1502,
+    "name": "Bí Ngô (cây con)"
+  },
+  {
+    "id": 1503,
+    "name": "Cây Ăn Quả (cây giống)"
+  },
+  {
+    "id": 1504,
+    "name": "Cây tùng (cây giống)"
+  },
+  {
+    "id": 1505,
+    "name": "Cây bạch dương (cây giống)"
+  },
+  {
+    "id": 1506,
+    "name": "Cây óc chó (cây giống)"
+  },
+  {
+    "id": 1507,
+    "name": "Cây Dương"
+  },
+  {
+    "id": 1508,
+    "name": "Cây Dương (cây giống)"
+  },
+  {
+    "id": 1509,
+    "name": "Lô Hội"
+  },
+  {
+    "id": 1510,
+    "name": "Đậu phộng"
+  },
+  {
+    "id": 1511,
+    "name": "Lúa mạch"
+  },
+  {
+    "id": 1512,
+    "name": "Mè"
+  },
+  {
+    "id": 1513,
+    "name": "Rau xà lách"
+  },
+  {
+    "id": 1514,
+    "name": "Củ cải đường"
+  },
+  {
+    "id": 1515,
+    "name": "Cà chua"
+  },
+  {
+    "id": 1516,
+    "name": "Lúa miến"
+  },
+  {
+    "id": 1517,
+    "name": "Bắp cải"
+  },
+  {
+    "id": 1518,
+    "name": "Ngô"
+  },
+  {
+    "id": 1519,
+    "name": "Ớt xanh"
+  },
+  {
+    "id": 1520,
+    "name": "Củ Sắn"
+  },
+  {
+    "id": 1521,
+    "name": "Củ cải"
+  },
+  {
+    "id": 1522,
+    "name": "Bông cải xanh"
+  },
+  {
+    "id": 1523,
+    "name": "Hẹ"
+  },
+  {
+    "id": 1524,
+    "name": "Táo đỏ"
+  },
+  {
+    "id": 1525,
+    "name": "Củ cà rốt"
+  },
+  {
+    "id": 1526,
+    "name": "Hoa cải dầu"
+  },
+  {
+    "id": 1527,
+    "name": "Lúa mạch Tây Tạng"
+  },
+  {
+    "id": 1528,
+    "name": "Dừa"
+  },
+  {
+    "id": 1529,
+    "name": "Dâu rừng"
+  },
+  {
+    "id": 1530,
+    "name": "Quả hồng xiêm"
+  },
+  {
+    "id": 1531,
+    "name": "Cao lương đỏ"
+  },
+  {
+    "id": 1532,
+    "name": "Hạt tiêu tròn"
+  },
+  {
+    "id": 1533,
+    "name": "Đậu Hà Lan."
+  },
+  {
+    "id": 1534,
+    "name": "Việt quất"
+  },
+  {
+    "id": 1535,
+    "name": "Dâu"
+  },
+  {
+    "id": 1536,
+    "name": "Quả dứa"
+  },
+  {
+    "id": 1537,
+    "name": "Nho"
+  },
+  {
+    "id": 1538,
+    "name": "Quả anh đào"
+  },
+  {
+    "id": 1539,
+    "name": "Nấm linh chi"
+  },
+  {
+    "id": 1540,
+    "name": "Thanh long"
+  },
+  {
+    "id": 1541,
+    "name": "Ớt ngũ  sắc"
+  },
+  {
+    "id": 1542,
+    "name": "Nấm Rhodotus"
+  },
+  {
+    "id": 1543,
+    "name": "Nhân sâm"
+  },
+  {
+    "id": 1550,
+    "name": "Giường đơn giản"
+  },
+  {
+    "id": 1551,
+    "name": "Sô pha đơn giản"
+  },
+  {
+    "id": 1552,
+    "name": "Bàn làm việc đơn giản"
+  },
+  {
+    "id": 1553,
+    "name": "Bàn ăn đơn giản"
+  },
+  {
+    "id": 1554,
+    "name": "Bàn trà đơn giản"
+  },
+  {
+    "id": 1555,
+    "name": "Bồn rửa tay đơn giản"
+  },
+  {
+    "id": 1556,
+    "name": "Ghế đơn giản"
+  },
+  {
+    "id": 1557,
+    "name": "Bồn cầu đơn giản"
+  },
+  {
+    "id": 1558,
+    "name": "Bồn tắm đơn giản"
+  },
+  {
+    "id": 1559,
+    "name": "Tủ quần áo đơn giản"
+  },
+  {
+    "id": 1560,
+    "name": "Tủ bếp đơn giản"
+  },
+  {
+    "id": 1561,
+    "name": "Tủ bếp nửa ngăn đơn giản"
+  },
+  {
+    "id": 1562,
+    "name": "Tủ kết hợp đơn giản"
+  },
+  {
+    "id": 1563,
+    "name": "Bình phong đơn giản"
+  },
+  {
+    "id": 1564,
+    "name": "Đèn 3D đơn giản"
+  },
+  {
+    "id": 1565,
+    "name": "Đèn chùm đơn giản"
+  },
+  {
+    "id": 1566,
+    "name": "Đèn tường đơn giản"
+  },
+  {
+    "id": 1567,
+    "name": "Cửa đơn giản"
+  },
+  {
+    "id": 1568,
+    "name": "Cửa sổ đơn giản"
+  },
+  {
+    "id": 1569,
+    "name": "Cầu thang đơn giản"
+  },
+  {
+    "id": 1570,
+    "name": "Gạch tường đơn giản"
+  },
+  {
+    "id": 1571,
+    "name": "Gạch đơn giản"
+  },
+  {
+    "id": 1572,
+    "name": "Nửa gạch đơn giản"
+  },
+  {
+    "id": 1573,
+    "name": "Hàng rào đơn giản"
+  },
+  {
+    "id": 1574,
+    "name": "Giường kiểu Trung Hoa"
+  },
+  {
+    "id": 1575,
+    "name": "Ghế sofa kiểu Trung Hoa"
+  },
+  {
+    "id": 1576,
+    "name": "Bàn làm việc kiểu Trung Hoa"
+  },
+  {
+    "id": 1577,
+    "name": "Bàn ăn kiểu Trung Hoa"
+  },
+  {
+    "id": 1578,
+    "name": "Bàn trà đạo kiểu Trung Hoa"
+  },
+  {
+    "id": 1579,
+    "name": "Bồn rửa tay"
+  },
+  {
+    "id": 1580,
+    "name": "Ghế kiểu Trung Hoa"
+  },
+  {
+    "id": 1581,
+    "name": "Toilet kiểu Trung Hoa"
+  },
+  {
+    "id": 1582,
+    "name": "Bồn tắm kiểu Trung"
+  },
+  {
+    "id": 1583,
+    "name": "Tủ quần áo kiểu Trung"
+  },
+  {
+    "id": 1584,
+    "name": "Tủ bếp kiểu Trung hoa"
+  },
+  {
+    "id": 1585,
+    "name": "Tủ bếp kiểu Trung"
+  },
+  {
+    "id": 1586,
+    "name": "Tủ kết hợp kiểu Trung"
+  },
+  {
+    "id": 1587,
+    "name": "Màn hình kiểu Trung"
+  },
+  {
+    "id": 1588,
+    "name": "Đèn 3d kiểu Trung"
+  },
+  {
+    "id": 1589,
+    "name": "Đèn chùm kiểu Trung"
+  },
+  {
+    "id": 1590,
+    "name": "Đèn tường kiểu Trung"
+  },
+  {
+    "id": 1591,
+    "name": "Cửa kiểu Trung"
+  },
+  {
+    "id": 1592,
+    "name": "Cửa sổ kiểu Trung"
+  },
+  {
+    "id": 1593,
+    "name": "Cầu thang kiểu cổ"
+  },
+  {
+    "id": 1594,
+    "name": "Tường kiểu cổ"
+  },
+  {
+    "id": 1595,
+    "name": "Gạch kiểu Trung"
+  },
+  {
+    "id": 1596,
+    "name": "Nửa khối gạch kiểu cổ"
+  },
+  {
+    "id": 1597,
+    "name": "Hàng rào kiểu cổ"
+  },
+  {
+    "id": 1598,
+    "name": "Giường hiện đại"
+  },
+  {
+    "id": 1599,
+    "name": "Sofa hiện đại"
+  },
+  {
+    "id": 1600,
+    "name": "Bàn làm việc hiện đại"
+  },
+  {
+    "id": 1601,
+    "name": "Bàn ăn hiện đại"
+  },
+  {
+    "id": 1602,
+    "name": "Bàn trà đạo hiện đại"
+  },
+  {
+    "id": 1603,
+    "name": "Bồn rửa tay hiện đại"
+  },
+  {
+    "id": 1604,
+    "name": "Ghế hiện đại"
+  },
+  {
+    "id": 1605,
+    "name": "Toilet hiện đại"
+  },
+  {
+    "id": 1606,
+    "name": "Bồn tắm hiện đại"
+  },
+  {
+    "id": 1607,
+    "name": "Tủ quần áo hiện đại"
+  },
+  {
+    "id": 1608,
+    "name": "Tủ bếp hiện đại"
+  },
+  {
+    "id": 1609,
+    "name": "Nửa tủ bếp hiện đại"
+  },
+  {
+    "id": 1610,
+    "name": "Tủ kết hợp hiện đại"
+  },
+  {
+    "id": 1611,
+    "name": "Bình phong"
+  },
+  {
+    "id": 1612,
+    "name": "Đèn 3d hiện đại"
+  },
+  {
+    "id": 1613,
+    "name": "Đèn chùm hiện đại"
+  },
+  {
+    "id": 1614,
+    "name": "Đèn tường hiện đại"
+  },
+  {
+    "id": 1615,
+    "name": "Cửa hiện đại"
+  },
+  {
+    "id": 1616,
+    "name": "Cửa sổ hiện đại"
+  },
+  {
+    "id": 1617,
+    "name": "Cầu thang hiện đại"
+  },
+  {
+    "id": 1618,
+    "name": "Gạch tường hiện đại"
+  },
+  {
+    "id": 1619,
+    "name": "Gạch hiện đại"
+  },
+  {
+    "id": 1620,
+    "name": "Gạch bán hiện đại"
+  },
+  {
+    "id": 1621,
+    "name": "Hàng rào hiện đại"
+  },
+  {
+    "id": 1622,
+    "name": "Giường cổ tích"
+  },
+  {
+    "id": 1623,
+    "name": "Ghế sofa cổ tích"
+  },
+  {
+    "id": 1624,
+    "name": "Bàn làm việc cổ tích"
+  },
+  {
+    "id": 1625,
+    "name": "Bàn ăn cổ tích"
+  },
+  {
+    "id": 1626,
+    "name": "Bàn trà đạo cổ tích"
+  },
+  {
+    "id": 1627,
+    "name": "Bồn rửa tay cổ tích"
+  },
+  {
+    "id": 1628,
+    "name": "Ghế cổ tích"
+  },
+  {
+    "id": 1629,
+    "name": "Bồn cầu cổ tích"
+  },
+  {
+    "id": 1630,
+    "name": "Bồn tắm cổ tích"
+  },
+  {
+    "id": 1631,
+    "name": "Tủ quần áo cổ tích"
+  },
+  {
+    "id": 1632,
+    "name": "Tủ bếp cổ tích"
+  },
+  {
+    "id": 1633,
+    "name": "Nửa tủ truyện cổ tích"
+  },
+  {
+    "id": 1634,
+    "name": "Tủ kết hợp cổ tích"
+  },
+  {
+    "id": 1635,
+    "name": "Bình phong cổ tích"
+  },
+  {
+    "id": 1636,
+    "name": "Đèn 3d cổ tích"
+  },
+  {
+    "id": 1637,
+    "name": "Đèn chùm cổ tích"
+  },
+  {
+    "id": 1638,
+    "name": "Đèn tường cổ tích"
+  },
+  {
+    "id": 1639,
+    "name": "Cửa cổ tích"
+  },
+  {
+    "id": 1640,
+    "name": "Cửa sổ cổ tích"
+  },
+  {
+    "id": 1641,
+    "name": "Cầu thang cổ tích"
+  },
+  {
+    "id": 1642,
+    "name": "Tường cổ tích"
+  },
+  {
+    "id": 1643,
+    "name": "Gạch cổ tích"
+  },
+  {
+    "id": 1644,
+    "name": "Nửa viên gạch cổ tích"
+  },
+  {
+    "id": 1645,
+    "name": "Hàng rào cổ tích"
+  },
+  {
+    "id": 1646,
+    "name": "Giường khoa học viễn tưởng"
+  },
+  {
+    "id": 1647,
+    "name": "Ghế sofa khoa học viễn tưởng"
+  },
+  {
+    "id": 1648,
+    "name": "Bàn khoa học viễn tưởng"
+  },
+  {
+    "id": 1649,
+    "name": "Bàn ăn khoa học viễn tưởng"
+  },
+  {
+    "id": 1650,
+    "name": "Bàn trà đạo khoa học viễn tưởng"
+  },
+  {
+    "id": 1651,
+    "name": "Bồn rửa tay khoa học viễn tưởng"
+  },
+  {
+    "id": 1652,
+    "name": "Ghế khoa học viễn tưởng"
+  },
+  {
+    "id": 1653,
+    "name": "Bồn cầu khoa học viễn tưởng"
+  },
+  {
+    "id": 1654,
+    "name": "Bồn tắm khoa học viễn tưởng"
+  },
+  {
+    "id": 1655,
+    "name": "Tủ quần áo khoa học viễn tưởng"
+  },
+  {
+    "id": 1656,
+    "name": "Tủ bếp học viễn tưởng"
+  },
+  {
+    "id": 1657,
+    "name": "Nữa tủ bếp khoa học viễn tưởng"
+  },
+  {
+    "id": 1658,
+    "name": "Tủ kết hợp khoa học viễn tưởng"
+  },
+  {
+    "id": 1659,
+    "name": "Bình phong khoa học viễn tưởng"
+  },
+  {
+    "id": 1660,
+    "name": "Đèn 3d khoa học viễn tưởng"
+  },
+  {
+    "id": 1661,
+    "name": "Đèn chùm khoa học viễn tưởng"
+  },
+  {
+    "id": 1662,
+    "name": "Đèn tường khoa học viễn tưởng"
+  },
+  {
+    "id": 1663,
+    "name": "Cửa khoa học viễn tưởng"
+  },
+  {
+    "id": 1664,
+    "name": "Cửa sổ khoa học viễn tưởng"
+  },
+  {
+    "id": 1665,
+    "name": "Thang máy khoa học viễn tưởng"
+  },
+  {
+    "id": 1666,
+    "name": "Gạch tường khoa học viễn tưởng"
+  },
+  {
+    "id": 1667,
+    "name": "Gạch đá khoa học viễn tưởng"
+  },
+  {
+    "id": 1668,
+    "name": "Nửa khối đá khoa học viễn tưởng"
+  },
+  {
+    "id": 1669,
+    "name": "Hàng rào khoa học viễn tưởng"
+  },
+  {
+    "id": 1670,
+    "name": "Chậu cây thông nhỏ"
+  },
+  {
+    "id": 1671,
+    "name": "Chậu Bonsai"
+  },
+  {
+    "id": 1672,
+    "name": "Thảm lông thú"
+  },
+  {
+    "id": 1673,
+    "name": "Tranh phong cảnh"
+  },
+  {
+    "id": 1674,
+    "name": "Tranh trừu tượng"
+  },
+  {
+    "id": 1675,
+    "name": "Dây thắt nút Trung Hoa"
+  },
+  {
+    "id": 1676,
+    "name": "Đồ trang trí hành tinh"
+  },
+  {
+    "id": 1677,
+    "name": "Tủ sách đơn giản"
+  },
+  {
+    "id": 1678,
+    "name": "Tủ lạnh trắng"
+  },
+  {
+    "id": 1679,
+    "name": "Tủ lạnh màu xám bạc"
+  },
+  {
+    "id": 1680,
+    "name": "Tủ lạnh màu đen"
+  },
+  {
+    "id": 1681,
+    "name": "Nồi cơm điện màu trắng"
+  },
+  {
+    "id": 1682,
+    "name": "Nồi cơm điện màu xám bạc"
+  },
+  {
+    "id": 1683,
+    "name": "Nồi cơm điện màu đen"
+  },
+  {
+    "id": 1684,
+    "name": "Bếp lò màu trắng"
+  },
+  {
+    "id": 1685,
+    "name": "Bếp lò màu xám bạc"
+  },
+  {
+    "id": 1686,
+    "name": "Bếp lò màu đen"
+  },
+  {
+    "id": 1687,
+    "name": "Bếp màu trắng"
+  },
+  {
+    "id": 1688,
+    "name": "Bếp màu xám bạc"
+  },
+  {
+    "id": 1689,
+    "name": "Bếp nấu màu đen"
+  },
+  {
+    "id": 1690,
+    "name": "Chậu cây Bonsai dồi dào"
+  },
+  {
+    "id": 1691,
+    "name": "Giường kiểu Âu"
+  },
+  {
+    "id": 1692,
+    "name": "Ghế sofa kiểu Âu"
+  },
+  {
+    "id": 1693,
+    "name": "Bàn kiểu Âu"
+  },
+  {
+    "id": 1694,
+    "name": "Bàn ăn kiểu Âu"
+  },
+  {
+    "id": 1695,
+    "name": "Bàn trà kiểu Âu"
+  },
+  {
+    "id": 1696,
+    "name": "Bồn rửa tay kiểu Âu"
+  },
+  {
+    "id": 1697,
+    "name": "Ghế kiểu Âu"
+  },
+  {
+    "id": 1698,
+    "name": "Toilet kiểu Âu"
+  },
+  {
+    "id": 1699,
+    "name": "Bồn tắm kiểu Âu"
+  },
+  {
+    "id": 1700,
+    "name": "Tủ quần áo kiểu Âu"
+  },
+  {
+    "id": 1701,
+    "name": "Tủ kiểu Âu"
+  },
+  {
+    "id": 1702,
+    "name": "Tủ nửa bếp kiểu Âu"
+  },
+  {
+    "id": 1703,
+    "name": "Tủ kết hợp kiểu Âu"
+  },
+  {
+    "id": 1704,
+    "name": "Bình phong kiểu Âu"
+  },
+  {
+    "id": 1705,
+    "name": "Đèn 3D kiểu Âu"
+  },
+  {
+    "id": 1706,
+    "name": "Đèn chùm kiểu Âu"
+  },
+  {
+    "id": 1707,
+    "name": "Đèn tường kiểu Âu"
+  },
+  {
+    "id": 1708,
+    "name": "Cửa kiểu Âu"
+  },
+  {
+    "id": 1709,
+    "name": "Cửa sổ kiểu Âu"
+  },
+  {
+    "id": 1710,
+    "name": "Cầu thang kiểu Âu"
+  },
+  {
+    "id": 1711,
+    "name": "Gạch tường kiểu Âu"
+  },
+  {
+    "id": 1712,
+    "name": "Gạch kiểu Âu"
+  },
+  {
+    "id": 1713,
+    "name": "Gạch nửa kiểu Âu"
+  },
+  {
+    "id": 1714,
+    "name": "Hàng rào kiểu Âu"
+  },
+  {
+    "id": 1715,
+    "name": "Gỗ Dương"
+  },
+  {
+    "id": 1716,
+    "name": "Tấm gỗ Dương"
+  },
+  {
+    "id": 1717,
+    "name": "Lá Dương"
+  },
+  {
+    "id": 1718,
+    "name": "Ván Mỏng Hồ Dương"
+  },
+  {
+    "id": 1719,
+    "name": "Cầu thang gỗ Dương"
+  },
+  {
+    "id": 1720,
+    "name": "Bàn trà gỗ Dương"
+  },
+  {
+    "id": 1721,
+    "name": "Ghế gỗ Dương"
+  },
+  {
+    "id": 1722,
+    "name": "Giường Độc Đáo"
+  },
+  {
+    "id": 1723,
+    "name": "Ghế sofa Độc Đáo"
+  },
+  {
+    "id": 1724,
+    "name": "Bàn Độc Đáo"
+  },
+  {
+    "id": 1725,
+    "name": "Bàn ăn Độc Đáo"
+  },
+  {
+    "id": 1726,
+    "name": "Bàn trà Độc Đáo"
+  },
+  {
+    "id": 1727,
+    "name": "Bồn rửa tay Độc Đáo"
+  },
+  {
+    "id": 1728,
+    "name": "Ghế Độc Đáo"
+  },
+  {
+    "id": 1729,
+    "name": "Bồn cầu Độc Đáo"
+  },
+  {
+    "id": 1730,
+    "name": "Bồn tắm Độc Đáo"
+  },
+  {
+    "id": 1731,
+    "name": "Tủ quần áo Độc Đáo"
+  },
+  {
+    "id": 1732,
+    "name": "Tủ Độc Đáo"
+  },
+  {
+    "id": 1733,
+    "name": "Tủ nhỏ Độc Đáo"
+  },
+  {
+    "id": 1734,
+    "name": "Tủ kết hợp Độc Đáo"
+  },
+  {
+    "id": 1735,
+    "name": "Bình Phong Độc Đáo"
+  },
+  {
+    "id": 1736,
+    "name": "Đèn Kéo Quân Độc Đáo"
+  },
+  {
+    "id": 1737,
+    "name": "Đèn treo Độc Đáo"
+  },
+  {
+    "id": 1738,
+    "name": "Đèn tường Độc Đáo"
+  },
+  {
+    "id": 1739,
+    "name": "Cửa Độc Đáo"
+  },
+  {
+    "id": 1740,
+    "name": "Cửa Sổ Độc Đáo"
+  },
+  {
+    "id": 1741,
+    "name": "Cầu thang Độc Đáo"
+  },
+  {
+    "id": 1742,
+    "name": "Gạch ốp tường Độc Đáo"
+  },
+  {
+    "id": 1743,
+    "name": "Gạch Độc Đáo"
+  },
+  {
+    "id": 1744,
+    "name": "Nửa viên gạch Độc Đáo"
+  },
+  {
+    "id": 1745,
+    "name": "Hàng rào Độc Đáo"
+  },
+  {
+    "id": 1746,
+    "name": "Thảm Độc Đáo"
+  },
+  {
+    "id": 1747,
+    "name": "Có thể sử dụng Phù Điêu bay Đôn Hoàng sau khi mở khóa"
+  },
+  {
+    "id": 1748,
+    "name": "Hang Đôn Hoàng"
+  },
+  {
+    "id": 1749,
+    "name": "Phù Điêu bay Đôn Hoàng"
+  },
+  {
+    "id": 1750,
+    "name": "Bích Hoạ Hoa Sen"
+  },
+  {
+    "id": 1751,
+    "name": "Bích Hoạ Tiên Nữ"
+  },
+  {
+    "id": 1752,
+    "name": "Bích Hoạ Hươu Cửu Sắc"
+  },
+  {
+    "id": 1753,
+    "name": "Máng thức ăn"
+  },
+  {
+    "id": 1754,
+    "name": "Mây sặc sỡ"
+  },
+  {
+    "id": 1755,
+    "name": "Trụ đá"
+  },
+  {
+    "id": 1756,
+    "name": "Đầu cột"
+  },
+  {
+    "id": 1757,
+    "name": "Đá Magna nóng"
+  },
+  {
+    "id": 1758,
+    "name": "Đá Magna"
+  },
+  {
+    "id": 1759,
+    "name": "Bếp nấu ăn ngon"
+  },
+  {
+    "id": 1760,
+    "name": "Giường ma thuật"
+  },
+  {
+    "id": 1761,
+    "name": "Sofa ma thuật"
+  },
+  {
+    "id": 1762,
+    "name": "Bàn ăn ma thuật"
+  },
+  {
+    "id": 1763,
+    "name": "Ghế ma thuật"
+  },
+  {
+    "id": 1764,
+    "name": "Bàn ma thuật"
+  },
+  {
+    "id": 1765,
+    "name": "Cổng ma thuật"
+  },
+  {
+    "id": 1766,
+    "name": "Cửa sổ ma thuật"
+  },
+  {
+    "id": 1767,
+    "name": "Bàn cà phê ma thuật"
+  },
+  {
+    "id": 1768,
+    "name": "Tủ quần áo ma thuật"
+  },
+  {
+    "id": 1769,
+    "name": "Tủ ma thuật"
+  },
+  {
+    "id": 1770,
+    "name": "Tủ lưới ma thuật nửa"
+  },
+  {
+    "id": 1771,
+    "name": "Tủ kết hợp ma thuật"
+  },
+  {
+    "id": 1772,
+    "name": "Bồn nước ma thuật"
+  },
+  {
+    "id": 1773,
+    "name": "Nhà vệ sinh ma thuật"
+  },
+  {
+    "id": 1774,
+    "name": "Bồn tắm ma thuật"
+  },
+  {
+    "id": 1775,
+    "name": "Rào ma thuật"
+  },
+  {
+    "id": 1776,
+    "name": "Gạch ốp tường ma thuật"
+  },
+  {
+    "id": 1777,
+    "name": "Gạch ma thuật"
+  },
+  {
+    "id": 1778,
+    "name": "Ván bìa ma thuật"
+  },
+  {
+    "id": 1779,
+    "name": "Cầu thang ma thuật"
+  },
+  {
+    "id": 1780,
+    "name": "Ánh sáng ba chiều ma thuật"
+  },
+  {
+    "id": 1781,
+    "name": "Thảm ma thuật"
+  },
+  {
+    "id": 1782,
+    "name": "Màn hình ma thuật"
+  },
+  {
+    "id": 1783,
+    "name": "Điêu khắc ma thuật"
+  },
+  {
+    "id": 1784,
+    "name": "Đèn chùm ma thuật"
+  },
+  {
+    "id": 1785,
+    "name": "Đèn tường ma thuật"
+  },
+  {
+    "id": 1786,
+    "name": "Tranh tường ma thuật"
+  },
+  {
+    "id": 1787,
+    "name": ""
+  },
+  {
+    "id": 1788,
+    "name": ""
+  },
+  {
+    "id": 1789,
+    "name": ""
+  },
+  {
+    "id": 1790,
+    "name": ""
+  },
+  {
+    "id": 1791,
+    "name": ""
+  },
+  {
+    "id": 1792,
+    "name": ""
+  },
+  {
+    "id": 1793,
+    "name": ""
+  },
+  {
+    "id": 1794,
+    "name": ""
+  },
+  {
+    "id": 1795,
+    "name": ""
+  },
+  {
+    "id": 1796,
+    "name": "Khối Cỏ Việt Quất"
+  },
+  {
+    "id": 1797,
+    "name": "Khối Đất Việt Quất"
+  },
+  {
+    "id": 1798,
+    "name": "Cỏ Huỳnh Quang"
+  },
+  {
+    "id": 1799,
+    "name": "Đất giàu"
+  },
+  {
+    "id": 1800,
+    "name": "Trứng Thần Thú Rồng"
+  },
+  {
+    "id": 1801,
+    "name": "Trứng Thần Thú Trăng"
+  },
+  {
+    "id": 1802,
+    "name": "Trứng Thần Thú Xe Tuần Lộc"
+  },
+  {
+    "id": 1803,
+    "name": "Trứng Cá Voi"
+  },
+  {
+    "id": 1804,
+    "name": "Trứng - Hoa Bay Tuyết Nhảy"
+  },
+  {
+    "id": 1805,
+    "name": ""
+  },
+  {
+    "id": 1806,
+    "name": ""
+  },
+  {
+    "id": 1807,
+    "name": ""
+  },
+  {
+    "id": 1808,
+    "name": ""
+  },
+  {
+    "id": 1809,
+    "name": ""
+  },
+  {
+    "id": 1810,
+    "name": ""
+  },
+  {
+    "id": 1811,
+    "name": "Ghế Kiểu Hoa"
+  },
+  {
+    "id": 1812,
+    "name": "Bàn Kiểu Hoa"
+  },
+  {
+    "id": 1813,
+    "name": "Ghế Gỗ Kiểu Hoa"
+  },
+  {
+    "id": 1814,
+    "name": "Lò Lửa Kiểu Hoa"
+  },
+  {
+    "id": 1815,
+    "name": "Tủ Kiểu Hoa"
+  },
+  {
+    "id": 1873,
+    "name": "飞天小猪坐骑蛋"
+  },
+  {
+    "id": 1900,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1901,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1902,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1903,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1904,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1905,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1906,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1907,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1908,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1909,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1910,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1911,
+    "name": "Khối Bông Vải"
+  },
+  {
+    "id": 1912,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1913,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1914,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1915,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1916,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1917,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1918,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1919,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1920,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1921,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1922,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1923,
+    "name": "Vải Nỉ"
+  },
+  {
+    "id": 1924,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1925,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1926,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1927,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1928,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1929,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1930,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1931,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1932,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1933,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1934,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1935,
+    "name": "Khối Thủy Tinh"
+  },
+  {
+    "id": 1936,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1937,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1938,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1939,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1940,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1941,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1942,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1943,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1944,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1945,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1946,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1947,
+    "name": "Mảnh thuỷ tinh"
+  },
+  {
+    "id": 1948,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1949,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1950,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1951,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1952,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1953,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1954,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1955,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1956,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1957,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1958,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1959,
+    "name": "Khối Thủy Tinh Cứng"
+  },
+  {
+    "id": 1960,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1961,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1962,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1963,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1964,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1965,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1966,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1967,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1968,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1969,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1970,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1971,
+    "name": "Tô màu Khối Xi Măng"
+  },
+  {
+    "id": 1972,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1973,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1974,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1975,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1976,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1977,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1978,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1979,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1980,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1981,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1982,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1983,
+    "name": "Khối Bạc Kín Cũ"
+  },
+  {
+    "id": 1990,
+    "name": "Bàn Đạp Không Dây"
+  },
+  {
+    "id": 1991,
+    "name": "Bộ Chuyển Đổi Song Song"
+  },
+  {
+    "id": 1992,
+    "name": "Pudding"
+  },
+  {
+    "id": 1993,
+    "name": "Băng Chuyền"
+  },
+  {
+    "id": 1999,
+    "name": ""
+  },
+  {
+    "id": 2000,
+    "name": "Mô Hình Thu Nhỏ"
+  }
+]
