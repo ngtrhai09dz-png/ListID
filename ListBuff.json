@@ -1,0 +1,810 @@
+[
+  {
+    "id": 1,
+    "name": "Tốc độ di chuyển mẫu"
+  },
+  {
+    "id": 2,
+    "name": "Tốc độ đào mẫu"
+  },
+  {
+    "id": 3,
+    "name": "Hồi phục"
+  },
+  {
+    "id": 4,
+    "name": "Chạy Nhanh"
+  },
+  {
+    "id": 5,
+    "name": "Bơi Nhanh"
+  },
+  {
+    "id": 6,
+    "name": "Nhảy Cao"
+  },
+  {
+    "id": 7,
+    "name": "Đào Điên Cuồng"
+  },
+  {
+    "id": 8,
+    "name": "Chậm Chạp"
+  },
+  {
+    "id": 9,
+    "name": "Đào Kiệt Sức"
+  },
+  {
+    "id": 10,
+    "name": "Chịu sát thương"
+  },
+  {
+    "id": 11,
+    "name": "Đình công nghiêm trọng!"
+  },
+  {
+    "id": 12,
+    "name": "Đánh Lui Mạnh"
+  },
+  {
+    "id": 13,
+    "name": "Kháng Đánh Lui"
+  },
+  {
+    "id": 14,
+    "name": "Đào May Mắn"
+  },
+  {
+    "id": 15,
+    "name": "Săn May Mắn"
+  },
+  {
+    "id": 16,
+    "name": "Nhìn Đêm"
+  },
+  {
+    "id": 17,
+    "name": "Tấn Công Mạnh"
+  },
+  {
+    "id": 18,
+    "name": "Bắn Mạnh"
+  },
+  {
+    "id": 19,
+    "name": "Nổ Mạnh"
+  },
+  {
+    "id": 20,
+    "name": "Hỏa Công"
+  },
+  {
+    "id": 21,
+    "name": "Độc Công"
+  },
+  {
+    "id": 22,
+    "name": "Đòn đánh hỗn loạn"
+  },
+  {
+    "id": 23,
+    "name": "Thợ Săn Tinh Anh"
+  },
+  {
+    "id": 24,
+    "name": "Thợ Săn Dã Thú"
+  },
+  {
+    "id": 25,
+    "name": "Kẻ Săn Người"
+  },
+  {
+    "id": 26,
+    "name": "Phòng Thủ Cận Chiến"
+  },
+  {
+    "id": 27,
+    "name": "Phòng Thủ Tầm Xa"
+  },
+  {
+    "id": 28,
+    "name": "Phòng Thủ Nổ"
+  },
+  {
+    "id": 29,
+    "name": "Kháng Cháy"
+  },
+  {
+    "id": 30,
+    "name": "Kháng Độc"
+  },
+  {
+    "id": 31,
+    "name": "Kháng Hỗn Loạn"
+  },
+  {
+    "id": 32,
+    "name": "Kháng Rơi"
+  },
+  {
+    "id": 33,
+    "name": "Cháy Cấp"
+  },
+  {
+    "id": 34,
+    "name": "Trúng Độc"
+  },
+  {
+    "id": 35,
+    "name": "Ám"
+  },
+  {
+    "id": 36,
+    "name": "Ngộ Độc Thức Ăn"
+  },
+  {
+    "id": 37,
+    "name": "Thở Dưới Nước-I"
+  },
+  {
+    "id": 38,
+    "name": "Mất phương hướng!"
+  },
+  {
+    "id": 39,
+    "name": "Bão rồi!"
+  },
+  {
+    "id": 40,
+    "name": "Ta bị phóng to rồi!"
+  },
+  {
+    "id": 41,
+    "name": "Ta bị thu nhỏ rồi!"
+  },
+  {
+    "id": 42,
+    "name": "Bong Bóng"
+  },
+  {
+    "id": 43,
+    "name": "Nảy lên"
+  },
+  {
+    "id": 44,
+    "name": "Nọc Ong"
+  },
+  {
+    "id": 45,
+    "name": "Đông lạnh"
+  },
+  {
+    "id": 46,
+    "name": "Bắt nguồn từ"
+  },
+  {
+    "id": 47,
+    "name": "Đốt"
+  },
+  {
+    "id": 50,
+    "name": "Hồi Phục"
+  },
+  {
+    "id": 51,
+    "name": "Hồi Phục"
+  },
+  {
+    "id": 52,
+    "name": "Sức mạnh bí ẩn của nấm"
+  },
+  {
+    "id": 53,
+    "name": "Sức mạnh bí ẩn của nấm"
+  },
+  {
+    "id": 54,
+    "name": "Miễn Nhiễm Độc Tố"
+  },
+  {
+    "id": 55,
+    "name": "Gói Giải Độc"
+  },
+  {
+    "id": 60,
+    "name": "Trúng Độc"
+  },
+  {
+    "id": 61,
+    "name": "Tân Thủ Gây Hấn"
+  },
+  {
+    "id": 62,
+    "name": "Phòng Thủ Cận Chiến"
+  },
+  {
+    "id": 63,
+    "name": "Gió trên Horas"
+  },
+  {
+    "id": 64,
+    "name": "Nghẹt thở trên Horas"
+  },
+  {
+    "id": 65,
+    "name": "Oxy không ổn định"
+  },
+  {
+    "id": 66,
+    "name": "Oxy không ổn định"
+  },
+  {
+    "id": 67,
+    "name": "Sự bảo vệ của đá Rune thần bí"
+  },
+  {
+    "id": 68,
+    "name": "Ngộ Độc Thức Ăn"
+  },
+  {
+    "id": 70,
+    "name": "Bóng đá-Không lừa bóng"
+  },
+  {
+    "id": 71,
+    "name": "Chất độc đột biến"
+  },
+  {
+    "id": 72,
+    "name": "Bóng rổ - Mất bóng"
+  },
+  {
+    "id": 73,
+    "name": "Nóng bức"
+  },
+  {
+    "id": 74,
+    "name": "Ôxy khan hiếm"
+  },
+  {
+    "id": 75,
+    "name": "Lạnh cóng"
+  },
+  {
+    "id": 76,
+    "name": "Tiêu chảy"
+  },
+  {
+    "id": 77,
+    "name": "Chảy Máu"
+  },
+  {
+    "id": 78,
+    "name": "Dự phòng"
+  },
+  {
+    "id": 79,
+    "name": "Tỷ lệ EXP"
+  },
+  {
+    "id": 80,
+    "name": "Đánh một giấc"
+  },
+  {
+    "id": 81,
+    "name": "Chân nhanh nhẹn"
+  },
+  {
+    "id": 82,
+    "name": "Phục hồi thể lực"
+  },
+  {
+    "id": 83,
+    "name": "Phục hồi thể lực - Ngấm vào"
+  },
+  {
+    "id": 84,
+    "name": "Mở rộng thể lực"
+  },
+  {
+    "id": 85,
+    "name": "HP tối đa"
+  },
+  {
+    "id": 86,
+    "name": "Tốc độ di chuyển - bộc phát"
+  },
+  {
+    "id": 87,
+    "name": "Giảm mệt mỏi - Khối đào"
+  },
+  {
+    "id": 88,
+    "name": "Giảm mệt mỏi - chạy (nhảy)"
+  },
+  {
+    "id": 89,
+    "name": "Giảm mệt mỏi - Sử dụng các công cụ sạc"
+  },
+  {
+    "id": 90,
+    "name": "Tăng phục hồi HP"
+  },
+  {
+    "id": 91,
+    "name": "Sự ban phước của cây Thần"
+  },
+  {
+    "id": 92,
+    "name": "Món quà của mây cầu vồng"
+  },
+  {
+    "id": 93,
+    "name": "Mệt mỏi"
+  },
+  {
+    "id": 94,
+    "name": "Món quà ban đầu"
+  },
+  {
+    "id": 95,
+    "name": "Void"
+  },
+  {
+    "id": 96,
+    "name": "Ngôi sao quyền lực"
+  },
+  {
+    "id": 97,
+    "name": "Star Power đang làm mát"
+  },
+  {
+    "id": 98,
+    "name": "Phép thuật chuyển đổi Balala"
+  },
+  {
+    "id": 99,
+    "name": "Nguyệt Thực"
+  },
+  {
+    "id": 100,
+    "name": "Bốc Cháy"
+  },
+  {
+    "id": 101,
+    "name": "Ô Nhiễm"
+  },
+  {
+    "id": 102,
+    "name": "Huỳnh quang"
+  },
+  {
+    "id": 103,
+    "name": "Chú ý"
+  },
+  {
+    "id": 104,
+    "name": "Đôi mắt sắc bén"
+  },
+  {
+    "id": 105,
+    "name": "Hồi chiêu kỹ năng hồi sinh"
+  },
+  {
+    "id": 106,
+    "name": "Thức dậy tức giận"
+  },
+  {
+    "id": 107,
+    "name": "Đầu váng mắt hoa"
+  },
+  {
+    "id": 108,
+    "name": "Vẹo cổ"
+  },
+  {
+    "id": 110,
+    "name": "Bị kẹp lại rồi"
+  },
+  {
+    "id": 200,
+    "name": "Đốt Cháy"
+  },
+  {
+    "id": 201,
+    "name": "Hỗn Loạn"
+  },
+  {
+    "id": 202,
+    "name": "Niên Thú Hoảng Sợ"
+  },
+  {
+    "id": 203,
+    "name": "Kiểm soát Hư Không"
+  },
+  {
+    "id": 204,
+    "name": "Bảo vệ Hư Không"
+  },
+  {
+    "id": 205,
+    "name": "Bóng ma bất khả chiến bại"
+  },
+  {
+    "id": 206,
+    "name": "Cận chiến bất bại"
+  },
+  {
+    "id": 207,
+    "name": "Chiến tầm xa bất bại"
+  },
+  {
+    "id": 208,
+    "name": "Phòng thủ nổ bất bại"
+  },
+  {
+    "id": 209,
+    "name": "Phụ Boss"
+  },
+  {
+    "id": 210,
+    "name": "Hấp thu Hư không"
+  },
+  {
+    "id": 220,
+    "name": "Tốc độ di chuyển bùng bổ"
+  },
+  {
+    "id": 230,
+    "name": "Chóng mặt Level"
+  },
+  {
+    "id": 240,
+    "name": "Sức mạnh âm nhạc-Phấn chấn"
+  },
+  {
+    "id": 250,
+    "name": "Sức mạnh âm nhạc-Suy yếu"
+  },
+  {
+    "id": 260,
+    "name": "Ảo tưởng Level"
+  },
+  {
+    "id": 270,
+    "name": "Sợ hãi Level"
+  },
+  {
+    "id": 280,
+    "name": "Bão Cát!"
+  },
+  {
+    "id": 290,
+    "name": "Dùng Khiên phòng thủ"
+  },
+  {
+    "id": 998,
+    "name": "Chạy nhanh nào"
+  },
+  {
+    "id": 999,
+    "name": "Tiếp Tục Thám Hiểm!"
+  },
+  {
+    "id": 1000,
+    "name": "Tăng Tốc 100%"
+  },
+  {
+    "id": 1001,
+    "name": "Người Quan Sát"
+  },
+  {
+    "id": 1002,
+    "name": "Nhiễm virus"
+  },
+  {
+    "id": 1003,
+    "name": "Biến thành gà? !"
+  },
+  {
+    "id": 1004,
+    "name": "Biến thành bò? !"
+  },
+  {
+    "id": 1005,
+    "name": "Biến thành dê? !"
+  },
+  {
+    "id": 1006,
+    "name": "Yêu Quái? !"
+  },
+  {
+    "id": 1007,
+    "name": "Biến thành Ton Ton?!"
+  },
+  {
+    "id": 1008,
+    "name": "Dango? !"
+  },
+  {
+    "id": 1009,
+    "name": "Khiên năng lượng"
+  },
+  {
+    "id": 1010,
+    "name": "Virus Cường Hóa"
+  },
+  {
+    "id": 1011,
+    "name": "Tăng sát thương cận chiến"
+  },
+  {
+    "id": 1012,
+    "name": "Tăng sát thương tầm xa"
+  },
+  {
+    "id": 1013,
+    "name": "Bánh xe mặt trời"
+  },
+  {
+    "id": 1014,
+    "name": "Miễn Nhiễm Chảy Máu"
+  },
+  {
+    "id": 1015,
+    "name": "Cảnh Giác"
+  },
+  {
+    "id": 1016,
+    "name": "Kịch Độc"
+  },
+  {
+    "id": 1017,
+    "name": "Tê Liệt Thần Kinh Lv"
+  },
+  {
+    "id": 1018,
+    "name": "Độc Bọ Cạp Lv"
+  },
+  {
+    "id": 1019,
+    "name": "Mất Ý Thức"
+  },
+  {
+    "id": 1020,
+    "name": "Chảy Máu Lv"
+  },
+  {
+    "id": 1021,
+    "name": "Đổ Bệnh"
+  },
+  {
+    "id": 1022,
+    "name": "Hào Quang Cá Tảo Xanh Bất Bại"
+  },
+  {
+    "id": 1023,
+    "name": "Trói Chân..."
+  },
+  {
+    "id": 1024,
+    "name": "Câu Cá"
+  },
+  {
+    "id": 1025,
+    "name": "Biến hình Hải Linh Hộ Vệ!"
+  },
+  {
+    "id": 1026,
+    "name": "Bỏng Bởi Suối Nước Nóng"
+  },
+  {
+    "id": 1027,
+    "name": "Thú Cưỡi Hải Mã"
+  },
+  {
+    "id": 1028,
+    "name": "Thần Biển Hộ Vệ"
+  },
+  {
+    "id": 1029,
+    "name": "Cực Nóng"
+  },
+  {
+    "id": 1030,
+    "name": "Nóng Bức"
+  },
+  {
+    "id": 1031,
+    "name": "Lạnh Cóng"
+  },
+  {
+    "id": 1032,
+    "name": "Cực Lạnh"
+  },
+  {
+    "id": 1033,
+    "name": "Đóng Băng"
+  },
+  {
+    "id": 1034,
+    "name": "Đóng Băng Sâu"
+  },
+  {
+    "id": 1035,
+    "name": "Tiếp tục thay đổi nhiệt độ (Test)"
+  },
+  {
+    "id": 1036,
+    "name": "Thay đổi nhiệt độ môi trường (Test)"
+  },
+  {
+    "id": 1037,
+    "name": "Đóng Băng"
+  },
+  {
+    "id": 1038,
+    "name": "Lạnh Cứng"
+  },
+  {
+    "id": 1039,
+    "name": "Kháng Lạnh"
+  },
+  {
+    "id": 1040,
+    "name": "Kháng Nóng"
+  },
+  {
+    "id": 1041,
+    "name": "Chống Rét"
+  },
+  {
+    "id": 1042,
+    "name": "Chống Nóng"
+  },
+  {
+    "id": 1043,
+    "name": "Tăng Sát Thương Băng (Test)"
+  },
+  {
+    "id": 1044,
+    "name": "Liên tục chịu sát thương đóng băng (Test)"
+  },
+  {
+    "id": 1045,
+    "name": "Tăng sát thương đóng băng phải chịu (Test)"
+  },
+  {
+    "id": 1046,
+    "name": "Tăng Tấn Công Băng (Test)"
+  },
+  {
+    "id": 1047,
+    "name": "Tăng Thủ Băng (Test)"
+  },
+  {
+    "id": 1048,
+    "name": "Chịu sát thương băng lúc thực hiện hành động (Test)"
+  },
+  {
+    "id": 1049,
+    "name": "Sức Mạnh Quái Tuyết"
+  },
+  {
+    "id": 1050,
+    "name": "Sát Thương Băng"
+  },
+  {
+    "id": 1051,
+    "name": "Tự Cháy"
+  },
+  {
+    "id": 1052,
+    "name": "Tổn Thương"
+  },
+  {
+    "id": 1060,
+    "name": "Cầu Tuyết-Không giữ cầu"
+  },
+  {
+    "id": 1061,
+    "name": "Miễn dịch hạn chế"
+  },
+  {
+    "id": 1062,
+    "name": "Đêm Hư Không"
+  },
+  {
+    "id": 1069,
+    "name": "Loại Bỏ Sức Bền (Quái)"
+  },
+  {
+    "id": 1070,
+    "name": "Loại Bỏ Sức Bền"
+  },
+  {
+    "id": 1071,
+    "name": "Phòng Thủ Phản Kích (Độc)"
+  },
+  {
+    "id": 1072,
+    "name": "Khẩu Vị Tốt"
+  },
+  {
+    "id": 1073,
+    "name": "Chống Độc Bọ Cạp"
+  },
+  {
+    "id": 1074,
+    "name": "Đốt Cháy"
+  },
+  {
+    "id": 1075,
+    "name": "Miễn dịch Biến Thân"
+  },
+  {
+    "id": 2000,
+    "name": "Bubble ngủ 1 cấp"
+  },
+  {
+    "id": 2001,
+    "name": "Đóng Băng"
+  },
+  {
+    "id": 2002,
+    "name": "Đóng Băng"
+  },
+  {
+    "id": 2003,
+    "name": "Đóng Băng"
+  },
+  {
+    "id": 2004,
+    "name": "海的女儿"
+  },
+  {
+    "id": 2005,
+    "name": "Đào Điên Cuồng"
+  },
+  {
+    "id": 2006,
+    "name": "Tấn Công Mạnh"
+  },
+  {
+    "id": 2007,
+    "name": "Bắn Mạnh"
+  },
+  {
+    "id": 2008,
+    "name": "Gấu Con Ấm Áp"
+  },
+  {
+    "id": 2009,
+    "name": "Kim Ngân"
+  },
+  {
+    "id": 2010,
+    "name": "Hồi Phục HP"
+  },
+  {
+    "id": 2011,
+    "name": "Choáng"
+  },
+  {
+    "id": 2012,
+    "name": "Khiên"
+  },
+  {
+    "id": 2013,
+    "name": "Hồi Phục HP Chậm"
+  },
+  {
+    "id": 2014,
+    "name": "Ngộ Độc Thức Ăn"
+  },
+  {
+    "id": 3000,
+    "name": "Phiên bản trò chơi đã quá cũ"
+  }
+]
